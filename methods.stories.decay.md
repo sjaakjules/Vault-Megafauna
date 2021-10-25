@@ -8,7 +8,7 @@ created: 1634853986134
 
 # Plant Senescence
 
-The process of aging and decay is called [senescence](https://doi.org/10/f4hjpx). The story presented here is about [plant senescence](https://doi.org/10/f6h563) within _Eucalyptus regnans_. It describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environnement. This story draws on a range of research to lay the foundation for novel construction typologies which better support the ecosystems humanity live within.
+The [^1] process of aging and decay is called [senescence](https://doi.org/10/f4hjpx). The story presented here is about [plant senescence](https://doi.org/10/f6h563)  within _Eucalyptus regnans_. It describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environnement. This story draws on a range of research to lay the foundation for novel construction typologies which better support the ecosystems humanity live within. 
 
 ### _Background_
 
@@ -91,3 +91,4 @@ Near-surface habitats is a useful classification for these crucial microhabitats
 TODO: develop argument for this and reduce claim.
 
 
+[^1]: This is a link to something important.
