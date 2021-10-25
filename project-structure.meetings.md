@@ -2,10 +2,11 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1635131754818
+updated: 1635131876684
 created: 1634881306877
 ---
 ## Broader Relationship to Place and Participation
+
 ### Place
 
 - Places involve and are experienced by nonhuman as well as human entities
@@ -24,6 +25,7 @@ created: 1634881306877
 - Information technologies can assist in resolving this challenge.
 
 ## Meeting Thurs 20211022
+
 ### 1. More-than-human knowledge management as the ambition
 Interspecies communities and relationships. We want to organise this knowledge. How do we cluster it/these?.  
 Different things can be known. How does one glue this together, share and reuse? 
