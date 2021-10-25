@@ -37,7 +37,7 @@ Different things can be known. How does one glue this together, share and reuse?
 - Make sure the traces are just, are representative
 - Retain them and add to them
 - Communicate these traces to others
-    
+
 In this domain:
 
 - **Participation**: communication of knowledge
@@ -105,7 +105,7 @@ TODO: consider how to show the technical stuff side-by-side with poetic interpre
 
 TODO: investigate reveal.js and viscode.reveal for dissemination
 
-### 4 Justify and Define Stories
+### 4. Justify and Define Stories
 
 Feedback in response to [[project-structure.framework#Stories]] **Stories**
 
@@ -122,7 +122,7 @@ Describe and identify the clear reason to tell stories. Increase/decrease fricti
 The exhibition as a living working exhibition. The planning, traces in dendron is all in the public domain.
 
 - sketch dissemination event
-- document the dissemination and record outcomes, report on this, re-integrate into the dendron/exhibition. 
+- document the dissemination and record outcomes, report on this, re-integrate into the dendron/exhibition.
 - based on this  plan second event
   
 TODO: sketch event, consider people, venues.
