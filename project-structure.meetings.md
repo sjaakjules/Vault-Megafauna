@@ -36,7 +36,7 @@ Different things can be known. How does one glue this together, share and reuse?
     - Subjectivity, points of view, biases, coupling, etc.
     - Incompleteness
     - Goal orientation and biases from that
-    - Open possibilities for transspecies knowledge/communicaiton
+    - Open possibilities for transspecies knowledge/communication
 - Capture traces of it
 - Organise the traces in some way
 - Make sure the traces are just, are representative
@@ -131,7 +131,7 @@ Feedback in response to [[project-structure.framework#Stories]] **Stories**
 Describe and identify the clear reason to tell stories. Increase/decrease friction between objects so a stakeholder might look at something they usually would not.
 
 - Understand briefly what existing stories exist in the human domain. Distinguish one story from another (poem, essay, an epic saga. All human and confined. Trans-species psychology).
-- Show how our understanding of stories which includes nonhumans can be extended with some kind of systemicity to include these actors and speeches and objects
+- Show how our understanding of stories which includes nonhumans can be extended with some kind of systematicity to include these actors and speeches and objects
 - Demonstrate that this story-telling can be systematic, substantiated and innovative compared with what exist now. Demonstrate we can tell from this approach are substantially different from those in the human domain (while retaining the power of storytelling, training and techniques)
 - Demonstrate concrete benefits by focusing on particular stories  (benefits: new stakeholders, flexibility, empathy, capturing events otherwise unrecorded, ability to cope with time and spatial scales, ability to cope with non-individual life-forms, with subtle community relationships)
 - Verifying. Return. Drop back into teaching situations etc. Give back.
