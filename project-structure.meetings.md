@@ -2,7 +2,7 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1634889021166
+updated: 1635128102177
 created: 1634881306877
 ---
 ## Meeting Thurs 20211022
@@ -30,14 +30,14 @@ TODO: define broader challenge / significance. 'Interspecies/ More-than-human Kn
 What forms can this knowledge take? Clusters of different, partial, problematic, heterogenous ways of storing knowledge. These knowledge objects can take the form of:
 - knowledge processes (behaviour, evolutionary processes)
 - compact processes (events)
-- artefacts (books, digital datasets). 
+- artefacts (books, digital datasets).
 
 Others:
 
 - body shape (animal or tree)
 - behaviour
 - subjectivity and perception
-- certain patterns of interactions (camoflauge, predator avoidance)
+- certain patterns of interactions (camouflage, predator avoidance)
 - data
 - formal scientific hypothesis-testing
 - indigenous story-telling.
