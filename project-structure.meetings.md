@@ -2,7 +2,7 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1635133339787
+updated: 1635135525843
 created: 1634881306877
 ---
 ## Broader Relationship to Place and Participation
@@ -103,7 +103,7 @@ TODO: SR - define this section better? Clearly distinguish the speech acts/agent
 
 TODO: consider how to show the technical stuff side-by-side with poetic interpretations (ie photos, videos...) 
 
-TODO: investiate reveal.js and viscode.reveal for dissemination
+TODO: investigate reveal.js and viscode.reveal for dissemination
 
 ### 4 Justify and Define Stories
 
@@ -119,10 +119,10 @@ Describe and identify the clear reason to tell stories. Increase/decrease fricti
 
 ### 5. Addressing theme 'inclusiveness'
 
-The exhibition as a living working exhibition. The planning, traces in dendron is all in the public domain. 
+The exhibition as a living working exhibition. The planning, traces in dendron is all in the public domain.
+
 - sketch dissemination event
 - document the dissemination and record outcomes, report on this, re-integrate into the dendron/exhibition. 
 - based on this  plan second event
   
-TODO: sketch event, consider people, venues. 
-
+TODO: sketch event, consider people, venues.
