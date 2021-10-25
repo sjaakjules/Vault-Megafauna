@@ -2,7 +2,7 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1635131876684
+updated: 1635132673374
 created: 1634881306877
 ---
 ## Broader Relationship to Place and Participation
@@ -118,10 +118,10 @@ Describe and identify the clear reason to tell stories. Increase/decrease fricti
 
 ### 5. Addressing theme 'inclusiveness'
 
-The exhibition as a living working exhibition. The planning, traces in dendron is all in the public domain. 
+The exhibition as a living working exhibition. The planning, traces in dendron is all in the public domain.
+
 - sketch dissemination event
 - document the dissemination and record outcomes, report on this, re-integrate into the dendron/exhibition. 
 - based on this  plan second event
   
-TODO: sketch event, consider people, venues. 
-
+TODO: sketch event, consider people, venues.
