@@ -2,7 +2,7 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1635135525843
+updated: 1635135807950
 created: 1634881306877
 ---
 ## Broader Relationship to Place and Participation
@@ -71,7 +71,7 @@ Bits and pieces. Relationships between them.
 
 Stuff (?) flows through this, ie. love, beauty
 
-TODO: SR - clarify what you mean by 'stuff flows through this, ie. love and beauty'
+TODO: @SR-- - clarify what you mean by 'stuff flows through this, ie. love and beauty'
 
 TODO: define broader account of knowledge clusters so we can link together our speculative imagination about parrots in 10,000 years with protests about indigenous mother trees with the terrestrial lidar scanning.
 
@@ -99,7 +99,7 @@ We focus on  specific datasets and operations.
 We do this to provide glimpses in this overall way of interpreting things in the domain of more-than-human research. 
 This is instead of claiming these objects as significant outcomes in themselves (we are not ready for this).
 
-TODO: SR - define this section better? Clearly distinguish the speech acts/agents from the knowledge objects.
+TODO: @SR-- - define this section better? Clearly distinguish the speech acts/agents from the knowledge objects.
 
 TODO: consider how to show the technical stuff side-by-side with poetic interpretations (ie photos, videos...) 
 
