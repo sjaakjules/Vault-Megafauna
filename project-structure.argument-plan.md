@@ -2,7 +2,7 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635229911334
+updated: 1635230655331
 created: 1635199784064
 ---
 ## More-than-human Knowledge Management
@@ -14,11 +14,11 @@ created: 1635199784064
 
 The unfolding environmental crisis calls for better understanding and management of the Earth’s habitats. The ever-increasing amount of data humans gather about the planet is a common strategy for the assessment of the impact, the documentation of rapidly disappearing species, genes and structures, and the planning of remediation.
 
-Our example is E. regnans trees. These organisms are the largest flowering plants in the world and provide crucially important as habitats for many forms of life. They are also dissapearing due to anthropogenic activities such as climate change and logging. Our ongoing research has collected high resolution data describing large old trees. We want to understand what knowledge is (patterns, data, information), capture traces of it, organise it to highlight relationships expressed within it, and learn ways to read its meaning. 
+Our example is E. regnans trees. These organisms are the largest flowering plants in the world and provide crucially important as habitats for many forms of life. They are also disappearing due to anthropogenic activities such as climate change and logging. Our ongoing research has collected high resolution data describing large old trees. We want to understand what knowledge is (patterns, data, information), capture traces of it, organise it to highlight relationships expressed within it, and learn ways to read its meaning. 
 
 Knowledge is not complete but instead emerges as clusters of different, partial, problematic, heterogenous ways of storing it. For instance, recent work emphasises the importance of interdisciplinary work (crossing scientific disciplines, crossing into the humanities, etc) for dealing with environmental challenges. Further research acknolwedges the diverse forms ecological knowledge can take, and the benefits of embracing these many different forms given that many ecological processes extend far beyond typical human timescales. For instance, knowledge about ecological management can take the form of formal scientific hypothesis-testing but is also retained and expressed in longer periods of time through practices such as indigenous story-telling and other cultural memories.
 
-The next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knoweledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. In this context, human sensibilities, technologies, and languages do not suffice. Instead, the meaning should be informed by the knowledge from nonhuman others.
+The next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knowledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. In this context, human sensibilities, technologies, and languages do not suffice. Instead, the meaning should be informed by the knowledge from nonhuman others.
 
 <!--- However, humans most frequently collect data for financial gain or other self-serving goals. The resulting description often flatten the natural world into resources and commodities, minimizing the richness and expressiveness of nonhuman life. ---> 
 
@@ -91,7 +91,7 @@ Key goals:
 
 [ ] describe several compact but concrete examples @alexrfholland @sjaakjules
 
-2. Template for More-than-human knowledge management
+2. Template for More-than-human Knowledge Management
 
     2.1 Knowledge Objects
 
@@ -101,11 +101,13 @@ Key goals:
 
     Information exchange situated patterns. They can take the form of:
 
-    - Processes
-    - Compact Processes (events)
-    - Artefacts
+    - knowledge processes (behaviour, evolutionary processes)
+    - compact processes (events)
+    - artefacts (books, digital datasets).
 
     Others (cf. sensory ecologies, nonhuman cultures, nonhuman learning, etc.):
+
+    TODO: Knowledge object examples: [[themes.sensory-ecologies]], [[themes.imagination]], [[themes.justice]] what else?
 
     2.2 Speech Agents
 
@@ -123,14 +125,19 @@ Key goals:
     Artists would do some kind of actions, scientists would do others. Nonhumans can't but can engage it certain ways. We want to be inclusive so we want to consider it, even though we focus on human expert interpretation. 
     <!--- nonhumans definitely have speech of some kind. which? represented here how? --->
 
+    TODO: Speech agent examples
+
     2.3 Speech Acts
 
     <!--- Focus on specific datasets and operations. We do this to provide glimpses in this overall way of interpreting things in the domain of more-than-human research. 
     
     Needs to be inclusive, participatory, action-based). Bits and pieces. Relationships between them.--->
 
-        - Technical Operations [[project-structure.framework.markers]].
-        - Poetic Inteperations 
+        - Technical Operations [[project-structure.framework.markers]].  
+        - Poetic Interpretations 
+
+
+    TODO: speech acts examples. [[themes.patterns]], [[themes.communication]]
 
 3. Knowledge Traces / Relationships / Stories
 
