@@ -2,7 +2,7 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1635230265895
+updated: 1635231594406
 created: 1634881306877
 ---
 ## Broader Relationship to Place and Participation
@@ -30,7 +30,7 @@ missing
 
 ## Meeting Thurs 20211022
 
-### 1. More-than-human knowledge management as the ambition
+ ### 1. More-than-human knowledge management as the ambition
 
 Interspecies communities and relationships. We want to organise this knowledge. How do we cluster it/these?.  
 Different things can be known. How does one glue this together, share and reuse?
