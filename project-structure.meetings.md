@@ -2,17 +2,21 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1635135807950
+updated: 1635230265895
 created: 1634881306877
 ---
 ## Broader Relationship to Place and Participation
 
 ### Place
 
-- Places involve and are experienced by nonhuman as well as human entities
+- Places involve and are experienced by nonhuman as well as human entities.
 - Human centred places are unjust, degraded and un-viable.
 - Yet, most places suffer human influence that cannot easily be withdrawn.
 - Therefore, human designers have a responsibility to intervene in more-than-human places.
+
+missing
+
+- Communities occur in places and persist due to practices and relationships.
 
 ### Participation
 
@@ -59,6 +63,11 @@ What forms can this knowledge take? Clusters of different, partial, problematic,
 - artefacts (books, digital datasets).
 
 - [ ] describe several compact but concrete examples @alexrfholland @sjaakjules
+  
+- lidar data set
+- exhibition on bird view
+- artificial hollow
+- sensors in hollow with live data
 
 Others (cf. sensory ecologies, nonhuman cultures, nonhuman learning, etc.):
 
@@ -70,7 +79,7 @@ Others (cf. sensory ecologies, nonhuman cultures, nonhuman learning, etc.):
 - formal scientific hypothesis-testing
 - Indigenous story-telling.
 
-This environment allows us to glue content together content that is resolved at different levels and extract interesting stories (needs to be inclusive, participatory, action-based).
+This environment allows us to glue content together, content that is resolved at different levels and extract interesting stories (needs to be inclusive, participatory, action-based).
 Bits and pieces. Relationships between them.
 
 - information (going down the graph)
@@ -104,6 +113,7 @@ Emphasise the idea of speech or communication. Introduce agents who are speaking
 
 - artists would do some kind of actions, scientists would do others
 - nonhumans can't but can engage it certain ways. We want to be inclusive so we want to consider it, even though we focus on human expert interpretation. <!--- nonhumans definitely have speech of some kind. which? represented here how? --->
+- nonhuman making home, ants burrowing in log to be scanned.
 
 **Speech acts, ie:**
 
