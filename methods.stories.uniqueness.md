@@ -2,7 +2,7 @@
 id: vePQa11Sd0gfaaIDWRKj7
 title: Uniqueness
 desc: ''
-updated: 1635135420378
+updated: 1635311125050
 created: 1634718130498
 ---
 
@@ -157,6 +157,10 @@ Styx - base
 ![](/assets/images/2021-10-20-15-40-56.png)
 
 Styx - looking up
+
+![](/assets/images/styx/styx-1-2-2.jpg)
+
+Styx - looking up again
 
 
 ![](/assets/images/2021-10-20-15-46-18.png)

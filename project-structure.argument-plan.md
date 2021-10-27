@@ -2,7 +2,7 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635306439126
+updated: 1635306957955
 created: 1635199784064
 ---
 ## Objective
