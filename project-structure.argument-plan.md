@@ -2,12 +2,11 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635305180591
+updated: 1635306439126
 created: 1635199784064
 ---
 ## Objective
-
-
+TODO: Write
 ## Significance: More-than-human knowledge management
 
 The unfolding environmental crisis calls for better understanding and management of the Earth’s habitats. The ever-increasing amount of data humans gather about the planet is a common strategy for the assessment of the impact and the planning of remediation. Our research seeks to expand the notion of knowledge management to include nonhuman lifeforms as empowered contributors to collective storytelling. We argue that this redefinition of data, storytelling and knowledge is necessary in the era where human-centred approaches fail to address ecological devastation. 
@@ -17,9 +16,8 @@ Our example is giant *E. regnans* trees in Tasmania. These organisms grow to bec
 Mostly as a result of the work of local activist, new giant trees have been discovered and stands of them have been afforded protection due to their campaigns. Such work is needed as Tasmania's regnans forests are still logged. While trees over 85 meters are legislatively protected, large volume trees are not. Many of these trees are older and more massive than the tallest trees but may have lost some height due to lightning strikes and other environmental factors. Furthermore, this legislation does not protect younger *E. regnans* trees, threatening the next generation of giant trees. Activists, ecologists and others seek to document Tasmania's giant trees to increase their recognition aand preserve information about these rapidly disappearing structures. 
 
 Our ongoing research has collected high resolution data describing these and other large old trees and we learn ways to read their meaning. There are many challenges to collecting this data  due to the trees' size, structural complexity and remote locations. Furthermore, understanding meaning is an open and difficult challenge because elements of ecosystems mean different things to different inhabitants. We suggest that humans can only find answers to these questions through an approach that invites contributions not only from humans but also from birds, trees, and others. 
-## Gap: Integrating More-than-human knowledge is an open and difficult challenge
 
-To date, typical conceptualisations of knowledge presume the need for cognitive capabilities. These interpretations are human-centric and tend to exclude nonhumans by definition. Responding to this context, researchers in environmental humanities call for the abandonment of the habitual binaries between human and nonhuman worlds (Plumwood 2002). This work calls for multispecies approaches (Bastian et al. 2017; Bresnihan 2016) and the recognition of the shared fate of all planetary life. 
+## Gap: Integrating More-than-human knowledge is an open and difficult challenge
 
 Recent work emphasise that knowledge is better understood as clusters that are different, partial, problematic, and heterogenous. For instance, researchers increasingly understand the interdisciplinary nature (crossing scientific disciplines, crossing into the humanities, etc) of environmental challenges. Further research acknowledges the benefits of integrating the diverse forms ecological knowledge can take. For instance, knowledge about ecological management can take the form of formal scientific hypothesis-testing but is also retained and expressed in longer periods of time through practices such as indigenous story-telling and other cultural memories.
 
@@ -54,7 +52,7 @@ How can more-than-human knowledge be organised and expressed to maximise inclusi
 
 ## Methods
 
-### 1. Define More-than-human Knowledge Management.
+### 1. Define More-than-human Knowledge Management
 
 Create an environment that supports the capturing, clustering and organisation of knowledge irrespective of its origin, stakeholders and level of resolution.
 
@@ -72,7 +70,7 @@ Create an environment that supports the capturing, clustering and organisation o
     2. Inclusive
     3. Open communication
 
-### 2. Create Stories. 
+### 2. Create Stories
 
 Populate this environment with traces of more-than-human knowledge. Organise this more-than-human knowledge knowledge in particular ways by focusing on specific datasets and operations.
 
@@ -80,20 +78,20 @@ Populate this environment with traces of more-than-human knowledge. Organise thi
 
 2. Propose an initial definition of stories by reviewing existing stories in the human domain. Distinguish one story from another (poem, essay, an epic saga. All human and confined. Trans-species psychology).
 
-3.  Show how our understanding of stories which includes nonhumans can be extended with some kind of systemicity to include these actors and speeches and objects.
+3. Show how our understanding of stories which includes nonhumans can be extended with some kind of systemicity to include these actors and speeches and objects.
 TODO: How?
 
-4.  Demonstrate that this story-telling can be systematic, substantiated and innovative compared with what exist now. Demonstrate we can tell from this approach are substantially different from those in the human domain (while retaining the power of storytelling, training and techniques)
+4. Demonstrate that this story-telling can be systematic, substantiated and innovative compared with what exist now. Demonstrate we can tell from this approach are substantially different from those in the human domain (while retaining the power of storytelling, training and techniques)
 TODO: How?
 
-### Establish Benefits
+### 3. Establish Benefits
 
 1. Demonstrate concrete benefits by focusing on particular stories.
 2. Verify findings by exposing to ... 
 
 ## Findings
 
-### Template for More-than-human Knowledge Management
+### 1. Template for More-than-human Knowledge Management
 
 1. More-than-human knowledge
 
@@ -114,17 +112,12 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
     TODO: Knowledge object examples: [[themes.sensory-ecologies]], [[themes.imagination]], [[themes.justice]] 
     what else?
 
-    [[themes.c]]
-
-
 3. Speech Agents
 
     <!--- 
     We want to include different stakeholders. Our system and approach doesn't have epistemic bias.
     
-    Well, it does, unavoidably. the point is to highlight and resist it. 
-    
-    It is agnostic to the source. The ambition is to allow anyone to speak (this speaking can be dreamy, statistical, as a scientific paper).
+    Well, it does, unavoidably. the point is to highlight and resist it. It is agnostic to the source. The ambition is to allow anyone to speak (this speaking can be dreamy, statistical, as a scientific paper).
 
     The system is willing to consider at face value any contributions, and then reject those  it considers poor quality, or reject their use for a particular purpose.
     
@@ -141,8 +134,8 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
     
     Needs to be inclusive, participatory, action-based). Bits and pieces. Relationships between them.--->
 
-        - Technical Operations [[project-structure.framework.markers]].  
-        - Poetic Interpretations 
+    1. Technical Operations [[project-structure.framework.markers]].  
+    2. Poetic Interpretations 
 
 
     TODO: speech acts examples. [[themes.patterns]], [[themes.communication]]
@@ -150,19 +143,20 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
 
 [[dendron.]]
 
-### Knowledge Traces / Relationships / Stories
+### 2. Stories / Knowledge Traces / Relationships.
 
 1. Definition of Stories.
 
-    Stories express [[project-structure.relationships]]. They increase/decrease [[friction]] between objects so a stakeholder might look at something they usually would not.
-
-### Demonstration of concrete benefits:
+Stories express [[project-structure.relationships]]. They increase/decrease [[friction]] between objects so a stakeholder might look at something they usually would not.
+### 3. Demonstration of concrete benefits:
 
 1. Support for new stakeholders, flexibility, empathy, ie. [[stories.uncertainty]].
+
 2. Capturing events otherwise unrecorded, ie. [[stories.decay]].
+
 3. Ability to cope with time and spatial scales, ie. [[stories.strangeness]].
+
 4. Ability to cope with non-individual life-forms, with subtle community relationships,ie. [[stories.self-selves]]
-        
 
 ## Analysis of Findings
 
@@ -172,6 +166,7 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
 
 
 ## Contribution to Knowledge
+
 1. New conceptual models for preserving information about habitats for conservation and ecological understanding (conservation, ecology)
 2. Communicating these remote, complex and often inaccessible encounters in an open, intuitive format (eco-literacy)
 3. New tools for more-than-human communication (as part of steps from data generation to information-gathering to response) to help ecological design, interspecies and more-than-human participatory design in conditions of incomplete knowledge.
