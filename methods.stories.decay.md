@@ -2,16 +2,15 @@
 id: QCFR711gBLb51zLVrFDi4
 title: Decay
 desc: ''
-updated: 1635150828898
+updated: 1635231430668
 created: 1634853986134
 ---
 
+## Plant Senescence
 
-# Plant Senescence
+The process of aging and decay is called [senescence](https://doi.org/10/f4hjpx). The story presented here is about [plant senescence](https://doi.org/10/f6h563)  within _Eucalyptus regnans_. It describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environment. This story draws on a range of research to lay the foundation for novel construction typologies which better support the ecosystems humanity live within.
 
-The process of aging and decay is called senescence.[^1] The story presented here is about plant senescence[^2]  within _Eucalyptus regnans_. It describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environnement. This story draws on a range of research that lays the foundation for novel construction typologies which better support the ecosystems humanity need. 
-
-### _Background_
+## _Background_
 
 <details>
 <summary>As large trees decay they form unique microhabitats that support the lives of many other plants, animals, fungi and bacterium.</summary>
@@ -46,7 +45,7 @@ The process of aging and decay is called senescence.[^1] The story presented her
 <br> 
 
 <details>
-<summary>Fallen logs, leaf liter, and bark debris produce a complex range of microhabitats.</summary>
+<summary>Fallen logs, leaf litter, and bark debris produce a complex range of microhabitats.</summary>
 
 ## Bark streamers 
 Bark streamers are a critical resource provided by overstorey ash- type eucalypt trees.
@@ -64,26 +63,28 @@ Bark-gleaning birds (e.g., brown creepers (Certhia ameri- cana Bonaparte); Wintl
 >>From [Zuo et al., “Faunal Community Consequence of Interspecific Bark Trait Dissimilarity in Early-Stage Decomposing Logs.”](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.12676)
 
 ## Fallen logs
->Logs are nursery sites for some species of plants and provide places for the germination and growth of ferns, mosses and liverworts in montane ash forest (Ashton 1986). Detailed vegetation surveys (Lindenmayer et al. 2000b) have shown that Myrtle Beech trees in montane ash forests often germinate on rotting logs. The water and organic matter in rotting logs then facilitates the growth of young seedlings (Howard 1973). Other understorey plant species common in montane ash forests, such as Dogwood, Musk Daisy Bush and Mountain Pepper, also germinate on rotting logs. 
+
+>Logs are nursery sites for some species of plants and provide places for the germination and growth of ferns, mosses and liverworts in montane ash forest (Ashton 1986). Detailed vegetation surveys (Lindenmayer et al. 2000b) have shown that Myrtle Beech trees in montane ash forests often germinate on rotting logs. The water and organic matter in rotting logs then facilitates the growth of young seedlings (Howard 1973). Other understorey plant species common in montane ash forests, such as Dogwood, Musk Daisy Bush and Mountain Pepper, also germinate on rotting logs.
 >
 
 ## Inhabitants of fallen logs and dead trunks
-A dead trunk is colonized by a vast array of species when it falls to the ground, but the extensive literature on dead wood invertebrates (Grove 2002; Castro & Wise 2010; Déchêne & Buddle 2010; Ulyshen, Pucci & Hanula 2011) has still left questions unanswered about how, and how much, different factors determine the community composition of log‐related fauna. This is partly because most field sampling studies cannot disentangle the (interactive) effects of forest environment and log microenvironment, wood and bark traits of tree species, their decomposition stage, time of the year and the available pool of invertebrate species. 
+
+A dead trunk is colonized by a vast array of species when it falls to the ground, but the extensive literature on dead wood invertebrates (Grove 2002; Castro & Wise 2010; Déchêne & Buddle 2010; Ulyshen, Pucci & Hanula 2011) has still left questions unanswered about how, and how much, different factors determine the community composition of log‐related fauna. This is partly because most field sampling studies cannot disentangle the (interactive) effects of forest environment and log microenvironment, wood and bark traits of tree species, their decomposition stage, time of the year and the available pool of invertebrate species.
 >>From [Winter and Möller, “Microhabitats in Lowland Beech Forests as Monitoring Tool for Nature Conservation.”](https://doi.org/10/dx44wv)
 
 </details>
 
 <br>
 
-The following images show the complexity of these habitats. There are fungi and moss growing on the exposed roots, fallen branches, leaf liter and peeling back surrounding the tree.
-
+The following images show the complexity of these habitats.
 ![Image of habitat surrounding tree](\assets\images\bennets\IMG_7106.JPG)
 
 # Near surface habitats
 
-Near-surface habitats is a useful classification for these crucial microhabitats that can help design and architecture. 
+Near-surface habitats is a useful classification for these crucial microhabitats that can help design and architecture.
 
-TODO: develop argument for this and reduce claim.
 
-[^1]: [Thomas, H. (2013). Senescence, ageing and death of the whole plant. New Phytologist, 197(3), 696-711.](https://doi.org/10/f4hjpx) 
-[^2]: [Avila-Ospina, L., Moison, M., Yoshimoto, K., & Masclaux-Daubresse, C. (2014). Autophagy, plant senescence, and nutrient recycling. Journal of Experimental Botany, 65(14), 3799-3811.](https://doi.org/10/f6h563)
+
+TODO: develop argument for this.
+
+[^1]: This is a link to something important.
