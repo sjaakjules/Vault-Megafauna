@@ -1,10 +1,11 @@
 ---
-id: M9O1dnseK2MkfojPO9L3s
+id: F5e4SRIyx3tumqM4dZw0x
 title: Inclusivity
 desc: ''
 updated: 1634782750891
 created: 1634272795342
 ---
+
 ## Non-anthropocentric perspectives
 
 - perspective sharing by using multiple scales, formats, data sets

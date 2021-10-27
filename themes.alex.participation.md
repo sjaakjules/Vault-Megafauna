@@ -1,10 +1,11 @@
 ---
-id: c3OJHVyuoW1DWccM0Bzzg
+id: iFRoETnYEiRqgKs76gheg
 title: Participation
 desc: ''
 updated: 1634780873856
 created: 1634261358210
 ---
+
 ## Multiple forms of intepretation
 - the project is extendable
 - inclusive tools (open source, boundary objects, infrastructuring)

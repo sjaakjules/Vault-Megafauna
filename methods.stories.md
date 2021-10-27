@@ -1,10 +1,11 @@
 ---
-id: s9wkf6eel5bM3s7DSlu85
+id: Am3A9lI9Wkui2uoXiIhur
 title: Stories
 desc: ''
-updated: 1634788374063
+updated: 1635153937492
 created: 1634169842138
 ---
+
 #content
 
 ## Criteria
@@ -15,12 +16,12 @@ created: 1634169842138
 - demonstrate how our stories are substantially different from the stories in the human domain, retaining the benefits of the human only stories
 
 2. Demonstrate benefits
-- new stakeholders, greater flexibilioty, unrecorded events, cope with spatial / time scales, non individual lifeforms, etc. 
-- demonstrate some of the componens.
+- new stakeholders, greater flexibility, unrecorded events, cope with spatial / time scales, non individual lifeforms, etc. 
+- demonstrate some of the component.
 
 3. Clear reason to tell the story. Stories need to be told. 
 - distinguish one story for another
-- trans-species pyschology 
+- trans-species psychology 
 
 4. Return back to how we are going to verify this. 
 
