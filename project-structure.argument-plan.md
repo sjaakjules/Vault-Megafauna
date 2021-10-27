@@ -2,7 +2,7 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635230655331
+updated: 1635233099318
 created: 1635199784064
 ---
 ## More-than-human Knowledge Management
@@ -16,7 +16,7 @@ The unfolding environmental crisis calls for better understanding and management
 
 Our example is E. regnans trees. These organisms are the largest flowering plants in the world and provide crucially important as habitats for many forms of life. They are also disappearing due to anthropogenic activities such as climate change and logging. Our ongoing research has collected high resolution data describing large old trees. We want to understand what knowledge is (patterns, data, information), capture traces of it, organise it to highlight relationships expressed within it, and learn ways to read its meaning. 
 
-Knowledge is not complete but instead emerges as clusters of different, partial, problematic, heterogenous ways of storing it. For instance, recent work emphasises the importance of interdisciplinary work (crossing scientific disciplines, crossing into the humanities, etc) for dealing with environmental challenges. Further research acknolwedges the diverse forms ecological knowledge can take, and the benefits of embracing these many different forms given that many ecological processes extend far beyond typical human timescales. For instance, knowledge about ecological management can take the form of formal scientific hypothesis-testing but is also retained and expressed in longer periods of time through practices such as indigenous story-telling and other cultural memories.
+Knowledge is not complete but instead emerges as clusters of different, partial, problematic, heterogenous ways of storing it. For instance, recent work emphasises the importance of interdisciplinary work (crossing scientific disciplines, crossing into the humanities, etc) for dealing with environmental challenges. Further research acknowledges the diverse forms ecological knowledge can take, and the benefits of embracing these many different forms given that many ecological processes extend far beyond typical human timescales. For instance, knowledge about ecological management can take the form of formal scientific hypothesis-testing but is also retained and expressed in longer periods of time through practices such as indigenous story-telling and other cultural memories.
 
 The next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knowledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. In this context, human sensibilities, technologies, and languages do not suffice. Instead, the meaning should be informed by the knowledge from nonhuman others.
 
@@ -107,7 +107,7 @@ Key goals:
 
     Others (cf. sensory ecologies, nonhuman cultures, nonhuman learning, etc.):
 
-    TODO: Knowledge object examples: [[themes.sensory-ecologies]], [[themes.imagination]], [[themes.justice]] what else?
+    TODO: Knowledge object examples: [[themes.sensory-ecologies]], [[themes.imagination]], [[themes.justice]] what else?  
 
     2.2 Speech Agents
 
