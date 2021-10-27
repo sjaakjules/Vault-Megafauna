@@ -2,7 +2,7 @@
 id: ufP1Wuxrf9YnE73st0hfJ
 title: Characters
 desc: ''
-updated: 1634783704120
+updated: 1635305119233
 created: 1634718415236
 stub: true
 ---
@@ -32,3 +32,4 @@ TODO: add epiphyte and fern characters
 TODO: add human character.
 ## Bacteria / Fungi? 
 - Fungal or bacterial decay 
+
