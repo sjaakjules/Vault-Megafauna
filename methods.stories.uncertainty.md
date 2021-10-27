@@ -2,12 +2,12 @@
 id: yWSEIuBTPwPXmSM9uFYHs
 title: Uncertainty
 desc: ''
-updated: 1635316238380
+updated: 1635377086123
 created: 1634716730164
 ---
 
 #content
-
+^1
 This story is about a Euclytpus regans canopy
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/rL49PB6EQNIGmJPo5s" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rL49PB6EQNIGmJPo5s"></a></p>
@@ -37,6 +37,8 @@ TODO: get better interactive pointcloud styling
 >But there are other likely highly species-rich environments associated with some species of large old trees that remain almost entirely unexplored. The extensive decorticating bark microhabitats of Australian eucalypts is one such example.[1]
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hfRbyyF1l7ksUfiRme" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hfRbyyF1l7ksUfiRme"></a></p>
+
+^2
 
 
 >Large streamers of decorticating bark hanging from the lateral branches of large old mountain ash (Eucalyptus regnans) trees in Australia. These streamers are best developed on the largest trees in old-growth stands (Lindenmayer et al., 2000) and are an unstudied microhabitat for a rich array of invertebrate taxa such as flightless tree crickets (inset).[1]
