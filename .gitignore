@@ -2,4 +2,4 @@
 .dendron.cache.*
 .dendron.*
 .dendron.cache.json
-**/.dendron.cache.*
+**/.dendron.cache.*/**
