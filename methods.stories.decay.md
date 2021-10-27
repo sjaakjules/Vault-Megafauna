@@ -1,14 +1,15 @@
 ---
-id: qt6nuFMr5H0WfCoUbJbN5
+id: QCFR711gBLb51zLVrFDi4
 title: Decay
 desc: ''
-updated: 1634981401244
+updated: 1635150828898
 created: 1634853986134
 ---
 
+
 # Plant Senescence
 
-The [^1] process of aging and decay is called [senescence](https://doi.org/10/f4hjpx). The story presented here is about [plant senescence](https://doi.org/10/f6h563)  within _Eucalyptus regnans_. It describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environnement. This story draws on a range of research to lay the foundation for novel construction typologies which better support the ecosystems humanity live within. 
+The process of aging and decay is called senescence.[^1] The story presented here is about plant senescence[^2]  within _Eucalyptus regnans_. It describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environnement. This story draws on a range of research that lays the foundation for novel construction typologies which better support the ecosystems humanity need. 
 
 ### _Background_
 
@@ -24,13 +25,9 @@ The [^1] process of aging and decay is called [senescence](https://doi.org/10/f4
 <details>
 <summary>Microhabitats that are formed from plant senescence and decay are under represented in management strategies within many landscapes and even less within design and architecture.</summary>
 
-
-
 >No work has been conducted on the amount and condition of coarse woody debris that needs to be retained in logged and regenerated montane ash forest…. the effects of extensive and prolonged depletion of coarse woody debris remain unknown. Work in other forests around the world, particularly in the northern hemisphere, suggests that the impacts can be substantial (Grove and Hanula 2006; Harmon et al. 1986).
 
-
 >In current forest inventories and monitoring schemes, microhabitats and their function as possible core variables of the biocoenosis are not taken into consideration or they are not accurately described. Furthermore, the use of microhabitat inventories on trees has neither been tested as a field method nor established as proxy variables for maintaining biodiversity, nor have they been used as monitoring tools to assess nature conservation objectives.
-
 
 >Microhabitats such as broken crowns and stem cavities are mainly associated with decreasing tree vitality, which is commonly caused by a combination of fungi and insects (Jonsell et al., 1999, Franklin et al., 2002). The decay processes following tree damage and the development of microhabitats provide numerous habitats for breeding birds, bats, insects, mosses, and lichens (Palmer, 1986, Welsh and Capen, 1992, Thunes and Willassen, 1997, Winter et al., 2005).
 >>From [Winter and Möller, “Microhabitats in Lowland Beech Forests as Monitoring Tool for Nature Conservation.”](https://doi.org/10/dx44wv)
@@ -78,11 +75,9 @@ A dead trunk is colonized by a vast array of species when it falls to the ground
 
 <br>
 
+The following images show the complexity of these habitats. There are fungi and moss growing on the exposed roots, fallen branches, leaf liter and peeling back surrounding the tree.
 
-The following images show the complexity of these habitats. 
 ![Image of habitat surrounding tree](\assets\images\bennets\IMG_7106.JPG)
-
-
 
 # Near surface habitats
 
@@ -90,5 +85,5 @@ Near-surface habitats is a useful classification for these crucial microhabitats
 
 TODO: develop argument for this and reduce claim.
 
-
-[^1]: This is a link to something important.
+[^1]: [Thomas, H. (2013). Senescence, ageing and death of the whole plant. New Phytologist, 197(3), 696-711.](https://doi.org/10/f4hjpx) 
+[^2]: [Avila-Ospina, L., Moison, M., Yoshimoto, K., & Masclaux-Daubresse, C. (2014). Autophagy, plant senescence, and nutrient recycling. Journal of Experimental Botany, 65(14), 3799-3811.](https://doi.org/10/f6h563)

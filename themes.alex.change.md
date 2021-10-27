@@ -1,10 +1,11 @@
 ---
-id: UJRIZ8TzUYNLVFRlWYJ7M
+id: sFw8vhCMYPVBoCw4CCti3
 title: Change
 desc: ''
 updated: 1634782715233
 created: 1634267816291
 ---
+
 ## Activism 
 
 - expliclity experimental research
