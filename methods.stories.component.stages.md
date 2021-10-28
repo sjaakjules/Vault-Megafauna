@@ -2,7 +2,7 @@
 id: HvlDsfhu3FhUeb2P0YTlo
 title: Stages
 desc: ''
-updated: 1634852687265
+updated: 1635406571988
 created: 1634169987108
 ---
 
@@ -17,7 +17,7 @@ created: 1634169987108
 
 ### Aerial LiDaR data for areas of forest [1km]
 
-1. Styx 
+1. Styx
 2. Arve
 3. Bennets
 
@@ -28,15 +28,17 @@ created: 1634169987108
 3. Collapsed dead tree in Arve (Arve Big Tree).
 
 ### Terrestrial LiDaR for particular organisms [10m]
+
 1. Fern limbs, fronds
 2. Basal hollow, leaf clusters, branches.
 
 ### High-energy IMBL beamline imaging (near surface habitats) [1m]
+
 1. Hollow
 2. Fissures
 3. Bark streamer.
-   
+4. 
 ### Low-energy IMBL beamline for imaging fine scales [10cm and 1cm]
+
 1. Rotting internal walls
 2. Bark substrate
-
