@@ -2,9 +2,32 @@
 id: qANEWrNpi2zIi8K8RlIHX
 title: Meetings
 desc: ''
-updated: 1635231594406
+updated: 1635390353809
 created: 1634881306877
 ---
+
+## Meeting Today
+
+### Agenda
+
+1. Venues 
+  - ISEA application
+  - Other verification (workshop?)
+
+2. Review Argument Plan
+[[project-structure.argument-plan]]
+  - better link stories with knowledge management
+
+3. Discuss example stories
+[[methods.stories.uncertainty]]
+  - where to go from here?
+  - formalise definition of stories
+  - different types of stories 
+      - natural geographic type story
+      - narrative driven story 
+
+4. outline next steps
+
 
 ## Broader Relationship to Place and Participation
 
