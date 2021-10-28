@@ -2,7 +2,7 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635377370622
+updated: 1635390419468
 created: 1635199784064
 ---
 ## Objective
@@ -143,12 +143,19 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
 
 [[dendron.]]
 
-### 2. Stories / Knowledge Traces / Relationships.
+### 2. Stories / Knowledge Traces / Relationships
+
+- [ ] Reformat this section to be a result. What is unique/innovative about these stories? Specify in the section title and in the argument @alexrfholland
 
 1. Definition of Stories.
 
 Stories express [[project-structure.relationships]]. They increase/decrease [[friction]] between objects so a stakeholder might look at something they usually would not.
-### 3. Demonstration of concrete benefits:
+
+<!--- this is what they do, not what they are --->
+
+### 3. Demonstration of Concrete Benefits
+
+- [ ] A generic and meaningless title. State those benefits instead. @alexrfholland
 
 1. Support for new stakeholders, flexibility, empathy, ie. [[stories.uncertainty]].
 
@@ -160,15 +167,14 @@ Stories express [[project-structure.relationships]]. They increase/decrease [[fr
 
 ## Analysis of Findings
 
+<!--- So, there are no interesting points emerging from the work? This is concerning. Needs filling --->
+
 1. Limitations
 2. Applications to other work.
 3. New research questions
-
 
 ## Contribution to Knowledge
 
 1. New conceptual models for preserving information about habitats for conservation and ecological understanding (conservation, ecology)
 2. Communicating these remote, complex and often inaccessible encounters in an open, intuitive format (eco-literacy)
 3. New tools for more-than-human communication (as part of steps from data generation to information-gathering to response) to help ecological design, interspecies and more-than-human participatory design in conditions of incomplete knowledge.
-
-
