@@ -2,7 +2,7 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635390656631
+updated: 1635511666734
 created: 1635199784064
 ---
 ## Objective
@@ -51,6 +51,8 @@ How can more-than-human knowledge be organised and expressed to maximise inclusi
 ## Hypothesis
 
 [1.2] Technologically amplified [2] stories [3] can help to [1.3.1] capture, [1.3.2] make inclusive and [1.3.3] communicate [3] human and more-than-human forms of [1] knowledge.
+
+- [ ] just a comment, you can link these to headings @alexrfholland
 
 ## Methods
 
