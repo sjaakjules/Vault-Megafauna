@@ -2,7 +2,7 @@
 id: HvlDsfhu3FhUeb2P0YTlo
 title: Stages
 desc: ''
-updated: 1635737036040
+updated: 1635738020545
 created: 1634169987108
 ---
 
@@ -37,7 +37,7 @@ created: 1634169987108
 1. Hollow
 2. Fissures
 3. Bark streamer
-4. 
+
 ### Low-energy IMBL beamline for imaging fine scales [10cm and 1cm]
 
 1. Rotting internal walls
