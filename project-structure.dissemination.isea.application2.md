@@ -2,10 +2,10 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635753679096
+updated: 1635810852159
 created: 1635753668273
 ---
-# Knowing an Endling (Thematic Statement 200-500 words)
+## Knowing an Endling (Thematic Statement 200-500 words)
 
 Scientists describe an endling as the last known individual of a species. 
 
@@ -37,7 +37,7 @@ Our ambition is to account for the types of knowledge out there. Not in an exhau
 
 We do this for the purpose of ecocentric design that seeks to support all forms of life and life-supporting abiotic environments.
 
- # Artwork Proposal (300-800 words)
+## Artwork Proposal (300-800 words)
  
 The exhibit consists of three projections and one tablet. 
 
