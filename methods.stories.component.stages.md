@@ -2,7 +2,7 @@
 id: HvlDsfhu3FhUeb2P0YTlo
 title: Stages
 desc: ''
-updated: 1635406571988
+updated: 1635737036040
 created: 1634169987108
 ---
 
@@ -36,7 +36,7 @@ created: 1634169987108
 
 1. Hollow
 2. Fissures
-3. Bark streamer.
+3. Bark streamer
 4. 
 ### Low-energy IMBL beamline for imaging fine scales [10cm and 1cm]
 
