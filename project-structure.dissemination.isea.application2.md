@@ -2,7 +2,7 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635810852159
+updated: 1635810917515
 created: 1635753668273
 ---
 ## Knowing an Endling (Thematic Statement 200-500 words)
@@ -76,7 +76,7 @@ We map the stories and compare them to other stories.`
 Show how we obtain the data.
 
 
-# Images, Sketches and Drafts
+## Images, Sketches and Drafts
 
 For more images see [[methods.stories.uncertainty]] and [[methods.stories.uniqueness]]
 
@@ -95,7 +95,7 @@ For more images see [[methods.stories.uncertainty]] and [[methods.stories.unique
 
 ![[methods.data-gathering.exsitu]]
 
-# Artist Bio (300 words)
+## Artist Bio (300 words)
 
 An academic at the University of Melbourne, Dr Stanislav Roudavski contributes to knowledge by using scientific evidence and advanced technologies in concert with cultural, political, and historical analyses. 
 
@@ -103,7 +103,7 @@ Alexander Holland is a PhD candidate at the University of Melbourne. He investig
 
 Julian Rutten is a PhD candidate at Swinburne University of Technology. He studies the intersections of culture, nature, and technology. 
 
-# Key Concepts for the Conceptual Framework
+## Key Concepts for the Conceptual Framework
 
 ## Knowledge 
 
