@@ -2,7 +2,7 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635814091645
+updated: 1635814156974
 created: 1635753668273
 ---
 
@@ -34,7 +34,7 @@ Jørgensen, Dolly. “Endling, the Power of the Last in an Extinction-Prone Worl
 
 >Endling (n.) The last surviving individual of a species of animal or plant. The National Museum of Australia
 
-We focus on plants. 
+We focus on plants.
 
 We focus on three cases where plants exist that are almost endlings:
 
@@ -46,11 +46,11 @@ Many of these endlings will go instinct – no matter what the intervention is.
 
 One response to rapidly disappearing natural entities is to document and stand witness to then. To tell their stories.
 
-This is difficult. Like all organisms, plants are complex… with many webs… 
+This is difficult. Like all organisms, plants are complex… with many webs…
 
-To try and capture and account for this, we explore new ways to collect data. Our ongoing research has collected extremely high resolution volumetric data describing endling-adjacent plants  trees and we learn the ways to read their meaning. 
+To try and capture and account for this, we explore new ways to collect data. Our ongoing research has collected high resolution volumetric data describing endling-adjacent plants  trees and we learn the ways to read their meaning.
 
-This is a difficult challenge because elements of ecosystems mean different things to different inhabitants. 
+This is a difficult challenge because elements of ecosystems mean different things to different inhabitants.
 
 Responding to this challenge, we use laser scans in rainforests and data collected from particular accelerators, CT scanners, lidar…  We explore algorithms to recognise meaning in this data.
 
@@ -58,7 +58,7 @@ We do this to partake , engage and build comradery. We want to engage with this 
 
 This exhibition is part of the broader idea who and what owns knowledge. We see knowledge as more-than-human and better understood as clusters that are different, partial, problematic, and heterogenous. Traces of these clusters can be expressed in genes, structures, patterns of behaviour, and cultures.
 
-Our ambition is to account for the types of knowledge out there. Not in an exhaustive or philosophical way. But to capture the diversity, colour and excitement of it all. We want to instantiate this. 
+Our ambition is to account for the types of knowledge out there. Not in an exhaustive or philosophical way. But to capture the diversity, colour and excitement of it all. We want to instantiate this.
 
 We do this for the purpose of ecocentric design that seeks to support all forms of life and life-supporting abiotic environments.
 
