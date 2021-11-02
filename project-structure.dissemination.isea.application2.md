@@ -2,7 +2,7 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635813580204
+updated: 1635814091645
 created: 1635753668273
 ---
 
@@ -33,8 +33,6 @@ Jørgensen, Dolly. “Endling, the Power of the Last in an Extinction-Prone Worl
 ## Knowing an Endling (Thematic Statement 200-500 words)
 
 >Endling (n.) The last surviving individual of a species of animal or plant. The National Museum of Australia
-
-Scientists describe an endling as the last known individual of a species.
 
 We focus on plants. 
 
