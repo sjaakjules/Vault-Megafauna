@@ -1,13 +1,13 @@
 ---
 id: c7XNKUv2IVJZIwWTsvLJV
-title: Isea
+title: Venues
 desc: ''
-updated: 1635814230733
+updated: 1635814642982
 created: 1635376050884
 ---
 
-## ISEA
 
+## ISEA
 
 [Submission Link](https://isea2022.isea-international.org/submit-your-proposal/)
 
@@ -39,7 +39,7 @@ We invite artwork submissions responding to the themes of the symposium includin
 >
 >We see these Possibles behind climate change and global warming, behind robotics and biotechnologies, inside algorithms, artificial intelligence and data science, in between quantic worlds trying to get a grasp of what matter is, up there above our heads in outer space and the multiverse.
 
-**subtheme NATURES AND WORLDS** 
+**Subtheme NATURES AND WORLDS** 
 
 >In a context where all Possibles seem to be closed towards a dystopian future where we are heading , it is crucial to open these Possibles that are waiting to be unfolded, thought and experienced as the Other to come.
 
