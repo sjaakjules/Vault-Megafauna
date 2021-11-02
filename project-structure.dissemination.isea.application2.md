@@ -2,12 +2,26 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635810917515
+updated: 1635812954835
 created: 1635753668273
 ---
+
+## ISEA Theme Questions
+
+Possibles not only open up an unfinished world of futures before us, but also presents and pasts behind us.
+
+The Possible is openness and movement, a horizon of change that unfolds and organizes the world.
+
+- What does it mean  to be a human now?
+- How do we relate with the non-humans?
+- How do we become bodies in the world?
+- How do we construct and gain knowledge?
+- How to develop the interaction between human and machine?
+- And with the other animals?
+
 ## Knowing an Endling (Thematic Statement 200-500 words)
 
-Scientists describe an endling as the last known individual of a species. 
+Scientists describe an endling as the last known individual of a species.
 
 We focus on plants. 
 
@@ -87,9 +101,6 @@ For more images see [[methods.stories.uncertainty]] and [[methods.stories.unique
 ![](/assets/images/styx/styx-1-2-3.jpg)
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nUwOsBijUN2oLr8EED" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nUwOsBijUN2oLr8EED"></a></p>
-
-
-
 
 ![[methods.data-gathering.insitu]]
 
