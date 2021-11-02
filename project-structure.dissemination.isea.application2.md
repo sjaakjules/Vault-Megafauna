@@ -3,10 +3,14 @@ id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 1635812251135
 =======
 updated: 1635814663176
 >>>>>>> f70b0d5df651d63a5a0749fb7e456fac9f2e0c97
+=======
+updated: 1635814757287
+>>>>>>> 7c4df9bbe179db53c7f3ba34c21ae367374f752b
 created: 1635753668273
 ---
 
@@ -27,7 +31,6 @@ The Possible is openness and movement, a horizon of change that unfolds and orga
 - How do we construct and gain knowledge?
 - How to develop the interaction between human and machine?
 - And with the other animals?
-
 
 ## Ideas and Connections
 
