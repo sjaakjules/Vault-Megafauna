@@ -2,7 +2,7 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635812954835
+updated: 1635813203424
 created: 1635753668273
 ---
 
@@ -18,6 +18,12 @@ The Possible is openness and movement, a horizon of change that unfolds and orga
 - How do we construct and gain knowledge?
 - How to develop the interaction between human and machine?
 - And with the other animals?
+
+
+## Ideas and Connections
+
+- Endling is tragic but it is also not the end with traces, relationships, influences remaining. What are they? Examples?
+- On the other hand, the living can be experientially, functionally, culturally impoverished or extinct, with important meanings and relations no longer actual or accessible. Examples?
 
 ## Knowing an Endling (Thematic Statement 200-500 words)
 
