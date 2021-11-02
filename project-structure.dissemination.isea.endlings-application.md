@@ -2,7 +2,7 @@
 id: gMHcZTJLC4upt8vQPyblZ
 title: Endlings Application
 desc: ''
-updated: 1635816109523
+updated: 1635816077464
 created: 1635815671558
 ---
 
@@ -39,7 +39,6 @@ Jørgensen, Dolly. “Endling, the Power of the Last in an Extinction-Prone Worl
 >Endling (n.) The last surviving individual of a species of animal or plant. The National Museum of Australia
 
 We focus on plants.
->>>>>>> f70b0d5df651d63a5a0749fb7e456fac9f2e0c97
 
 We focus on three cases where plants exist that are almost endlings:
 
