@@ -2,7 +2,7 @@
 id: gMHcZTJLC4upt8vQPyblZ
 title: Endlings Application
 desc: ''
-updated: 1635815821553
+updated: 1635816109523
 created: 1635815671558
 ---
 
@@ -11,7 +11,6 @@ created: 1635815671558
 We focus on endling adjacent....
 
 We focus on plants. 
-=======
 Possibles not only open up an unfinished world of futures before us, but also presents and pasts behind us.
 
 The Possible is openness and movement, a horizon of change that unfolds and organizes the world.
