@@ -2,9 +2,111 @@
 id: c7XNKUv2IVJZIwWTsvLJV
 title: Isea
 desc: ''
-updated: 1635377360606
+updated: 1635813755949
 created: 1635376050884
 ---
+
+## ISEA
+
+November 3
+
+## SIGRAPH NORTH AMERICA 2022 CONFERENCE
+
+Conference: 7-11 August Vancouver 2022
+### Art Paper
+
+*Short and Long Papers Due Fri 21st Jan*
+
+>The SIGGRAPH Art Papers program brings together a multidisciplinary community of artists, researchers, and scholars working at the nexus of technology and the arts. It emphasizes imagination, speculation, and critique as means to open new aesthetic and interpretive paths that depart from and/or challenge commercial imperatives.
+
+https://s2022.siggraph.org/program/art-papers/
+
+### Art Gallery
+*Deadline: 1 Feb 2022*
+
+> Art Gallery is a juried exhibition that showcases the latest innovations in digital art and welcomes artists and enthusiasts alike to a space for creative contemplation. Check back in November for submissions information.
+
+https://s2022.siggraph.org/program/art-gallery/
+
+### Experience Hall (not sure if we can submit to this?)
+
+>Stimulate your senses with cutting-edge, in-person experiences and installations from the Art Gallery, Emerging Technologies, Labs, the Immersive Pavilion, and the VR Theater. If your senses need a jumpstart, this is the place for you.
+
+https://s2022.siggraph.org/programs-events/?ia=arts-design
+
+## SIGRAPH - OTHER
+
+### The Earth, Our Home: Art, Technology, and Critical Action
+
+*Due November 15 2021*
+
+The capacity of humanity to make choices and impose those choices on the environment without critical consideration of the consequences has resulted in an imbalance in power, where the destiny of the earth, our home, is controlled by humanity.  Human agency and continued existence relies on a balanced alliance with our natural world where the relationship shifts from master (human) / slave (environment) to a cooperative agreement to co-exist in harmony.  The earth is home to a wide variety of species and provides the necessities to support life in its various forms. Our ecosystem is a complex network of biological communities and abiotic factors that, when left on its own, promotes a natural evolution of life and equilibrium. When the system is impacted by short-sighted, rapacious human intervention, residents of this planet often experience displacement, extinction, and suffering. It is here that we find ourselves.
+
+Artists, scientists, technologists, and social practitioners have the power to critically respond to the imbalance by engaging in practices and producing artworks that seek to understand and work in harmony with the natural world to reimagine a better future. This exhibition seeks creative works that investigate, question, and propose critical action to reestablish a sustainable and balanced relationship with the earth, our home.
+
+Submissions for this exhibitions should be made in EasyChair. You will need to create an account in the system.
+
+You will be asked for the following:
+
+Author names and contact information
+A title and abstract suitable for the website (200 words)
+Keywords
+Project description 
+Statement of relevance to the theme
+Primary project URL, Video URL, Download Link or other means of accessing the project.
+We will want to put a copy of the project on our website if possible, or if it is documented on video we would prefer to have a copy to archive so we can prevent broken links later
+Creation year
+Prior showings and concurrent submissions
+Additional Information 
+About the artist(s)
+Artist(s) website(s)
+Additional Documents (optional PDF)
+Reference Image (1920px wide)
+Additional images (optional additional images)
+Other files (ZIP) for less than 50MB
+You will also be asked to confirm conflicts of interest.
+
+Review Process:
+Submissions will be reviewed by a jury of ACM SIGGRAPH Digital Arts Community members and additional invited experts in the field. We anticipate sending out responses by mid-December, with a go-live date in early 2022.
+
+Note: this exhibition will be held entirely online, and is sponsored by the year-round Digital Arts Community of ACM SIGGRAPH. It is not the same as the Art Gallery at the annual conferences associated with SIGGRAPH North America or SIGGRAPH Asia. Visit the websites for those annual conferences to apply to their exhibitions.
+
+https://dac.siggraph.org/the-earth-our-home/
+
+
+## SIGRAPH SPARKS
+
+https://dac.siggraph.org/sparks/
+
+>The SIGGRAPH Digital Arts Committee (DAC) is pleased to announce SPARKS: Short Presentations of Artworks & Research for the Kindred Spirit. The SPARKS presentations and discussions are held monthly and consist of up to 10 3-5 minute lightning talks followed by an inclusive discussion based on the topic of the month.  The discussions are moderated by DAC committee members along with invited guest facilitators.  
+
+Submit a Proposal for a Presentation – https://bit.ly/3noNQjS
+
+Submissions for future sessions are OPEN. Submissions for the monthly SPARKS presentations will be reviewed by the DAC committee along with the guest moderator. Only 10 max will be selected based on their relevance to the topic. 
+
+**Lightning Talks**
+
+Presentations should consist of approximately 10 slides and should be no longer than 5 minutes long. Presentations should be sent to the facilitator a minimum of 1 day prior to the event.
+
+**Within the Frame: Continuum of the Still Image**
+
+**SUBMIT YOUR PRESENTATION PROPOSAL BY NOVEMBER 12, 2021**
+
+Humans have been making pictures since the earliest cave drawings dating to at least 45,000 years ago, and the content and methods of making them have progressed since.  With each new technological advance (this includes analog), image makers add another tool to their kits that open up new ways to practice, to express ideas and to tell stories that range from literal to abstract.  Digital technologies are the latest and perhaps one of the biggest additions to the workflow, and with it, we have expanded our continuum of image making possibilities.  Indeed, digital methods have changed imagery more than any other tool in history.
+
+In 2003, Christiane Paul wrote that, “The use of digital technologies in almost every arena of daily life has vastly increased during the past decade, leading to speculations that all forms of artistic media will eventually be absorbed into the digital medium, either through digitization or through the use of computers in a specific aspect of processing or production.”  Not only has this come true, I would argue that digital processes have changed the still image in essential ways that force artists and viewers to question truth and reality. 
+
+This 10th SPARKS session welcomes the presentation of artworks and projects that represent the continuum of image making and that reveal the essential ways that digital tools have moved it forward.  Thus, we are looking for artists, theorists, researchers and practitioners of any image making practice to present and talk about works that range from fully digital, to a hybrid of digital and traditional practice that illustrate the growth of image making since the onset of widely available digital tools.  The work or aesthetics may be about the medium or they might simply tell a story or illustrate concepts.  
+
+ We are interested in a range of approaches including those from the past and those from the bleeding edge, using out of the box or homespun tools.  Still images of any kind are welcome as our ultimate goal is to not only establish how digital methods are essential to image making, but also to highlight and perhaps remind us that the single image is still powerful and still important now, more than ever.
+
+https://dac.siggraph.org/within-the-frame/
+
+Submission link: https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra-isyCoSoAt0Zk/viewform?edit_requested=true
+
+
+### ISEA
+
 [Submission Link](https://isea2022.isea-international.org/submit-your-proposal/)
 
 **Extended Deadline 3rd November**

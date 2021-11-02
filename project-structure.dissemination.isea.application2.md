@@ -2,12 +2,14 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635753679096
+updated: 1635812251135
 created: 1635753668273
 ---
 # Knowing an Endling (Thematic Statement 200-500 words)
 
 Scientists describe an endling as the last known individual of a species. 
+
+We focus on endling adjacent....
 
 We focus on plants. 
 
@@ -23,7 +25,7 @@ One response to rapidly disappearing natural entities is to document and stand w
 
 This is difficult. Like all organisms, plants are complex… with many webs… 
 
-To try and capture and account for this, we explore new ways to collect data. Our ongoing research has collected extremely high resolution volumetric data describing endling-adjacent plants  trees and we learn the ways to read their meaning. 
+To try and capture and account for this, we explore new ways to collect data. Our ongoing research has collected  high resolution volumetric data describing endling-adjacent plants and we learn the ways to read their meaning. 
 
 This is a difficult challenge because elements of ecosystems mean different things to different inhabitants. 
 
