@@ -2,7 +2,7 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Application2
 desc: ''
-updated: 1635813203424
+updated: 1635813580204
 created: 1635753668273
 ---
 
@@ -25,7 +25,14 @@ The Possible is openness and movement, a horizon of change that unfolds and orga
 - Endling is tragic but it is also not the end with traces, relationships, influences remaining. What are they? Examples?
 - On the other hand, the living can be experientially, functionally, culturally impoverished or extinct, with important meanings and relations no longer actual or accessible. Examples?
 
+## References
+
+Jørgensen, Dolly. “Endling, the Power of the Last in an Extinction-Prone World.” _Environmental Philosophy_ 14, no. 1 (2017): 119–38. https://doi.org/10/f3thfv.
+
+
 ## Knowing an Endling (Thematic Statement 200-500 words)
+
+>Endling (n.) The last surviving individual of a species of animal or plant. The National Museum of Australia
 
 Scientists describe an endling as the last known individual of a species.
 
