@@ -2,12 +2,10 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Endlings Application
 desc: ''
-updated: 1635816491202
+updated: 1635817061471
 created: 1635753668273
 ---
 
-# THIS IS  OUTDATED PLEASE 
-go to [[project-structure.dissemination.isea.SS-application]]
 ## ISEA Theme Questions
 
 We focus on endling adjacent....
