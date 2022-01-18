@@ -2,7 +2,7 @@
 id: 5hick0v21lo0RpS3HZo5y
 title: Argument Plan
 desc: ''
-updated: 1635511666734
+updated: 1642548025032
 created: 1635199784064
 ---
 ## Objective
@@ -15,9 +15,9 @@ The unfolding environmental crisis calls for better understanding and management
 
 Our example is giant *E. regnans* trees in Tasmania. These organisms grow to become some of of the tallest and most massive organisms in the world, and are critically important habitats for many forms of life. Increasing bushfires due to climate change pose an ongoing existential threat. For instance, the 2018-2019 bushfire killed over 50% of Tasmania's trees over 90m and significantly injured many more. Due to the immense time-periods it takes for these trees to grow (500-700 years), experts say that we may never see such trees again.
 
-Mostly as a result of the work of local activists, new giant trees have been discovered and stands of them have been afforded protection due to their campaigns. Such work is needed as Tasmania's regnans forests are still logged. While trees over 85 meters are legislatively protected, large volume trees are not. Many of these trees are older and more massive than the tallest trees but may have lost some height due to lightning strikes and other environmental factors. Furthermore, this legislation does not protect younger *E. regnans* trees, threatening the next generation of giant trees. Activists, ecologists and others seek to document Tasmania's giant trees to increase their recognition aand preserve information about these rapidly disappearing structures. 
+Mostly as a result of the work of local activists, new giant trees have been discovered and stands of them have been afforded protection due to their campaigns. Such work is needed as Tasmania's regnans forests are still logged. While trees over 85 meters are legislatively protected, large volume trees are not. Many of these trees are older and more massive than the tallest trees but may have lost some height due to lightning strikes and other environmental factors. Furthermore, this legislation does not protect younger *E. regnans* trees, threatening the next generation of giant trees. Activists, ecologists and others seek to document Tasmania's giant trees to increase their recognition and preserve information about these rapidly disappearing structures.
 
-Our ongoing research has collected high resolution data describing these and other large old trees and we learn ways to read their meaning. There are many challenges to collecting this data  due to the trees' size, structural complexity and remote locations. Furthermore, understanding meaning is an open and difficult challenge because elements of ecosystems mean different things to different inhabitants. We suggest that humans can only find answers to these questions through an approach that invites contributions not only from humans but also from birds, trees, and others. 
+Our ongoing research has collected high resolution data describing these and other large old trees and we learn ways to read their meaning. There are many challenges to collecting this data  due to the trees' size, structural complexity and remote locations. Furthermore, understanding meaning is an open and difficult challenge because elements of ecosystems mean different things to different inhabitants. We suggest that humans can only find answers to these questions through an approach that invites contributions not only from humans but also from birds, trees, and others.
 
 ## Gap: Integrating More-than-human knowledge is an open and difficult challenge
 
