@@ -2,9 +2,11 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642491622396
+updated: 1642493921580
 created: 1642491183255
 ---
+Wiki tasks
+
 - [ ] divide into stories
 - [ ] import slides
 - [ ] provide supporting evidence with references (in Chicago full note)
@@ -13,3 +15,15 @@ created: 1642491183255
 - [ ] provide audio files
 - [ ] include credits for all content
 - [ ] provide additional argument structure documents
+
+Video tasks
+
+- [ ] create the main title
+- [ ] create chapter titles on while, not on images
+- [ ] write up the script and upload for editing
+- [ ] record the captions as audio
+- [ ] do not repeat images (inside of the trunk, foliage)
+- [ ] stabilise static shots
+- [ ] make images fill screen, frame as smaller images in the centre for documentary shots
+- [ ] give plenty of white/black space to all shots
+- [ ] can one fix the near clipping plane?
