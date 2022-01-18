@@ -2,7 +2,7 @@
 id: aqBSk0sfnoVtEuFYKcXyb
 title: Markers
 desc: ''
-updated: 1634718363458
+updated: 1642512559703
 created: 1634528049736
 ---
 
@@ -69,4 +69,3 @@ ie. www.example.com/-x19022.4-y12313.1-z102.1
 - animation
 - geolocated point clouds
 - embedded images
-

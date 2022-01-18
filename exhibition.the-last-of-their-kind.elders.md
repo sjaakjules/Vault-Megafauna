@@ -2,7 +2,7 @@
 id: 43LnCy6mTd878lpmvt3iN
 title: The Last Elders
 desc: ''
-updated: 1642499586574
+updated: 1642512644255
 created: 1642491638223
 ---
 
@@ -17,6 +17,7 @@ Eucalyptus regnans trees live in Australia’s southern forests. Among frequent 
 Large old trees are homes to many beings and hold many stories. We show topographies that create wet conditions, stands of giant trees, individual living and dead trees and their neighbours, bark, moss, lichen, epiphytes and animals that live within them. To trace this story, we use computational analysis and artificial intelligence to probe the data acquired by laser imaging and synchrotron radiation.
 
 ![](assets/images/SIGGRAPH%20Images/The%20Last%20of%20Their%20Kind4.png)
+
 >What you see > Three giant trees: one living; one dead, still standing; one fallen in the valleys of Tasmanian rainforests during the dying days of the Holocene.
 Who speaks > 400-year old Eucalyptus regnans trees (mountain ash, swamp gum, stringy bark, giant gum), first seen by humans some 60,000 years ago, distinct as the Eucalypteae tribe for some 60 million years; the tallest flowering plant on the Earth.
 What the elders say> “Expecting our deaths at any moment, we grow quickly. In wet, cool refuges, we remain undisturbed. Here, we live for hundreds of years. We are now the elders. Yet, the forest is changing. Fires burn stronger and more often. Many elders have fallen.”

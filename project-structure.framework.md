@@ -2,21 +2,20 @@
 id: GO4x1Zs76JxXoeuZuy2sC
 title: Framework
 desc: ''
-updated: 1634787277306
+updated: 1642512625345
 created: 1634269245118
 ---
 
 
 #content
 
-
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
 
 This project is organised as four parts
 
 ### Research Cluster
-TODO: rename research cluster - More-than-human knowledge management?
 
+TODO: rename research cluster - More-than-human knowledge management?
 
 The research cluster is a hierarchically organised,  interconnected set of annotations, notes and documents. It is a cluster of knowledge, with information that flows through the cluster in particular ways. It is broken down into three major sub-clusters:
 
@@ -58,7 +57,8 @@ Where possible, notes in the research cluster should be linked to the source env
 
 ### Stories
 
-Stories are paths through the project. They are  vehicles that can make the friction in the networks of relationships higher or lower, and filter what is being transmitted. 
+Stories are paths through the project. They are  vehicles that can make the friction in the networks of relationships higher or lower, and filter what is being transmitted.
+
 - Stories focuses  attention, highlight certain relationships, encourage people to consider our core themes
 - Stories have: characters, stages, event
 
