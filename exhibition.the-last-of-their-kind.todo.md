@@ -2,13 +2,13 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642493921580
+updated: 1642499622331
 created: 1642491183255
 ---
 Wiki tasks
 
-- [ ] divide into stories
-- [ ] import slides
+- [x] divide into stories
+- [x] import slides
 - [ ] provide supporting evidence with references (in Chicago full note)
 - [ ] provide additional images or links to videos/gifs, audio files as needed
 - [ ] provide interesting citations if relevant
