@@ -8,7 +8,7 @@ created: 1635308209615
 
 ## Top level notes
 
-[[agent]]
+[[character]]
 
 [[project-structure]]
 

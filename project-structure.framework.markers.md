@@ -2,7 +2,7 @@
 id: aqBSk0sfnoVtEuFYKcXyb
 title: Markers
 desc: ''
-updated: 1642512559703
+updated: 1642570074852
 created: 1634528049736
 ---
 
@@ -49,7 +49,7 @@ Annotations are:
 
 ### Sections
 
-![](/assets/images/crop2.apng)
+π
 
 Sections can be:
 
