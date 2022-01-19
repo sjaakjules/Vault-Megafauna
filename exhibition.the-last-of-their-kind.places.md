@@ -2,7 +2,7 @@
 id: V0OMvBI9SoC48A82fXeEh
 title: The Last Places
 desc: ''
-updated: 1642548773147
+updated: 1642562317443
 created: 1642491678663
 ---
 
@@ -20,17 +20,20 @@ Our story follows a group of small, medium, and large trees. Using data analysis
 
 >What you see > A statistical representation of different trees and their meaning as habitats, left; a remnant patch of woodland surviving on a hill in the southeast plains of Australia.
 Who speaks > A yellowbox grassy woodland community.
-What the woodland says > “I am not one but many: we are birds, mammals, reptiles, and plants. Our woods were once widespread. My other creatures cannot live without large old trees.”
+
+>What the woodland says > “I am not one but many: we are birds, mammals, reptiles, and plants. Our woods were once widespread. My other creatures cannot live without large old trees.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-023.png)
 
 >What you see > A map of tree densities some 300 years ago, before the European colonisation, in a cleared landscape on the outskirts of Canberra, in southeast Australia, in a landscape that currently has no trees.
-What the woodland says > “We grew in poor soils and apart from each other. Paddocks, streets and farms killed many.”
+
+>What the woodland says > “We grew in poor soils and apart from each other. Paddocks, streets and farms killed many.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-024.png)
 
 >What you see > An old tree in an urban park on the outskirts of Canberra. This tree has two kilometres of branches, and algorithm that finds branches preferred by birds.
-What the woodland says > “Even when the paddocks and cities came, some of our old trees remained. They are rich with many creatures in a simplified landscape. Birds perch and on branches. Insects live in bark cracks.”
+What the woodland says 
+> “Even when the paddocks and cities came, some of our old trees remained. They are rich with many creatures in a simplified landscape. Birds perch and on branches. Insects live in bark cracks.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-025.png)
 

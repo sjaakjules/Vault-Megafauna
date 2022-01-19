@@ -2,7 +2,7 @@
 id: 4nkxzqR8shWh8cxilfBD0
 title: The Last of Their Kind
 desc: ''
-updated: 1642496192863
+updated: 1642562265673
 created: 1642491171998
 ---
 
@@ -24,12 +24,12 @@ These stories attempt to create a narrative world that can support multiple pers
 
 The authorship of this exhibit belongs to Deep Design Lab, a creative collective. The project team includes:
 
-Stanislav Roudavski, at the University of Melbourne, researches designs for animals, plants, rivers, and rocks as well as humans. His experiments contribute to knowledge by using scientific evidence and advanced technologies in concert with cultural, political, and historical analyses.
-
 Alexander Holland, at the University of Melbourne, investigates the digital and physical characteristics and design opportunities of past and future environments. His experiments expand the reach of participatory design to include nonhuman as well as human inhabitants.
 
 Julian Rutten, at Swinburne University of Technology, studies the intersections of culture, nature, and technology. His research focuses on remote sensing and three-dimensional imaging techniques that aim to support more-than-human habitats.
 Together, the team has extensive design, art and architecture experience with many international exhibitions and publications to their credit.
+
+Stanislav Roudavski, at the University of Melbourne, researches designs for animals, plants, rivers, and rocks as well as humans. His experiments contribute to knowledge by using scientific evidence and advanced technologies in concert with cultural, political, and historical analyses.
 
 ### Acknowledgements
 
