@@ -2,7 +2,7 @@
 id: V0OMvBI9SoC48A82fXeEh
 title: The Last Places
 desc: ''
-updated: 1642562317443
+updated: 1642565499035
 created: 1642491678663
 ---
 
@@ -15,6 +15,8 @@ This story is about a disappearing form of landscape and its interlinked communi
 Close to many cities and unnoticed by most human live the last remnants of a once mighty community. These communities of yellowbox trees, grasses and many other beings last thousands of years. Birds nest in dead branches of older trees and feed on the insects in rotting bark. Lizards and insects hide in the grass or on in the folds of the trunks. Recent human land use destroys saplings and as the older trees die, the community dwindles.
 
 Our story follows a group of small, medium, and large trees. Using data analysis and artificial intelligence we recognise leaves, branches, and other vital features in complex tree structures. Combining these capabilities with observations of bird behaviour we consider relationships between trees and arboreal life, in support of better understanding of their roles and significance.
+
+See [[methods.imaging.tls]]
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-022.png)
 
@@ -39,6 +41,8 @@ What the woodland says
 
 >What you see > Human-installed trees at a restoration site on the outskirts of Canberra that suffers from human action during the last 230 years.
 What the woodland says > “With the elder trees dying, the birds and others die too.”
+
+Refer [[methods.stories.decay]]
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-026.png)
 

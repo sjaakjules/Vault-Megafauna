@@ -88,7 +88,7 @@ Biomass and structure type at burnt and unburnt sites
 
 Source: [The Tree Projects](https://www.thetreeprojects.com)
 
-We measure [[methods.data-gathering.exsitu]] using terrestrial LiDaR and [[methods.data-gathering.exsitu]] using the Synchrotron
+We measure [[methods.imaging.synchrotron-light]] using terrestrial LiDaR and [[methods.imaging.synchrotron-light]] using the Synchrotron
 
 ## Sites
 ![](/assets/images/2021-10-20-12-48-04.png)

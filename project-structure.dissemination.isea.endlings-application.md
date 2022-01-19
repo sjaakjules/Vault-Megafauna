@@ -127,9 +127,9 @@ For more images see [[methods.stories.uncertainty]] and [[methods.stories.unique
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nUwOsBijUN2oLr8EED" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nUwOsBijUN2oLr8EED"></a></p>
 
-![[methods.data-gathering.insitu]]
+![[methods.imaging.tls]]
 
-![[methods.data-gathering.exsitu]]
+![[methods.imaging.synchrotron-light]]
 
 ## Artist Bio (300 words)
 
