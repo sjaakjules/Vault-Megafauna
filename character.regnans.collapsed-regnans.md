@@ -2,10 +2,10 @@
 id: js1Npy9H5MoBm92VVsoFL
 title: Collapsed Regnans
 desc: ''
-updated: 1642567283663
+updated: 1642580431371
 created: 1642566037134
 ---
-
+Our third character is a collapsed _Eucalyptus Regnans_ tree, known as the Arve Giant. This tree was 500 years old and 87m tall when it burnt from the inside out in the 2019 Tasmanian bushfires. See [[event.fire]].
 ## Arve large tree
 
 >In Australia’s island state of Tasmania, many of the world’s biggest flowering trees lie in ruins after this year’s bushfires. The Arve Giant, a eucalyptus regnans (“king of the eucalypts”), had attracted hundreds of thousands of visitors in recent decades, but it succumbed in January.

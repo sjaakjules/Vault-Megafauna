@@ -2,17 +2,14 @@
 id: YFm4fWc9Oi6q8gSqDdCvJ
 title: Living Regnans
 desc: ''
-updated: 1642568873254
+updated: 1642580479439
 created: 1642566011430
 ---
-
+The first character in the story is a living 500 year old tree in the Styx valley. This stand of trees have survided disturbances including [[event.fire]] and [[event.logging]].
 
 ![](/assets/images/styx/IMG_6681-Pano-Edit.jpg)
-
-
 ## Location: Tolken Track, Styx
 ![](/assets/images/2021-10-20-15-40-56.png)
-
 
 >Some of the remaining giant trees of the Styx Valley were saved from logging by years of dedicated campaigning by the Wilderness Society & Greenpeace. In 2013, part of the Styx Valley was incorporated into the Tasmanian Wilderness World Heritage Area thanks to the Tasmanian Forestry Agreement, which is sometimes called the Forest Peace Deal. Successive Tasmanian governments have worked hard to dismantle this agreement.
 >
