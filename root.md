@@ -34,4 +34,4 @@ This wiki is divided into the following three sections. Research cluster, Dissem
 
 Here is full thing.
 
-![Something](assets/images/2021-10-18-14-38-56.png)
+![Something](assets/images/2021-10-20-12-36-21.png)
