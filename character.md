@@ -8,4 +8,5 @@ stub: true
 ---
 
 
+
 A character is ....

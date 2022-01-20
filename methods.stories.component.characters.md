@@ -8,6 +8,7 @@ stub: true
 ---
 
 
+
 ## Plantae / E. regnans tree
 
 - Geological history: ice-age, drying out results in a mix between moist-loving remnant Gondwana species (ferns, myrtle, etc) and fire-loving eucalypts.
