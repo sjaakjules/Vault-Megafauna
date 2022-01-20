@@ -2,7 +2,7 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642653265791
+updated: 1642653592870
 created: 1642491183255
 ---
 ## Wiki tasks
@@ -29,14 +29,14 @@ created: 1642491183255
 
 ## Video tasks
 
-- [ ] create the main title
-- [ ] create chapter titles on while, not on images
+- [x] create the main title
+- [x] create chapter titles on while, not on images
 - [ ] write up the script and upload for editing
 - [ ] record the captions as audio
-- [ ] do not repeat images (inside of the trunk, foliage)
-- [ ] stabilise static shots
-- [ ] make images fill screen, frame as smaller images in the centre for documentary shots
-- [ ] give plenty of white/black space to all shots
+- [x] do not repeat images (inside of the trunk, foliage)
+- [x] stabilise static shots
+- [x] make images fill screen, frame as smaller images in the centre for documentary shots
+- [x] give plenty of white/black space to all shots
 - [ ] can one fix the near clipping plane?
 
 ## Future video tasks

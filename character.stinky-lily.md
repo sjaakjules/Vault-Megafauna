@@ -1,6 +1,6 @@
 ---
 id: w827V0CrJdY9hPeDZfK2P
-title: Stink Lily
+title: Stinky Lily
 desc: ''
 updated: 1642604716294
 created: 1642587018729
