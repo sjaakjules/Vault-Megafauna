@@ -47,9 +47,9 @@ TODO: get better interactive pointcloud styling
 
 ## Tools
 
-![[methods.imaging.tls]]
+![[wip.methods.imaging.tls]]
 
-![[methods.imaging.synchrotron-light]]
+![[wip.methods.imaging.synchrotron-light]]
 
 [1]: <https://doi.org/10/gdvpqh> "Lindenmayer, David B., and William F. Laurance. “The Ecology, Distribution, Conservation and Management of Large Old Trees.” Biological Reviews, no. 132 (2016): 1434–58"
 

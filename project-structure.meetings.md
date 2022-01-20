@@ -19,7 +19,7 @@ created: 1634881306877
   - better link stories with knowledge management
 
 3. Discuss example stories
-[[methods.stories.uncertainty]]
+[[stories.uncertainty]]
   - where to go from here?
   - formalise definition of stories
   - different types of stories 

@@ -12,15 +12,15 @@ created: 1642491638223
 
 
 This story is about a disappearing stage of life, and death.
-Eucalyptus regnans trees live in Australia’s southern forests. Among frequent bushfires, they have evolved to die and grow quickly. In wet Tasmania the fires are rare. There, cool valleys are home to elders that live for hundreds of years. They are among the largest organisms on the Earth. However, the climate is warming, and the forests are drying. The giants burn, fall, and die. Humans are not likely to ever see such trees again. The forest community will have no elders. See [[methods.stories.uncertainty]]
+Eucalyptus regnans trees live in Australia’s southern forests. Among frequent bushfires, they have evolved to die and grow quickly. In wet Tasmania the fires are rare. There, cool valleys are home to elders that live for hundreds of years. They are among the largest organisms on the Earth. However, the climate is warming, and the forests are drying. The giants burn, fall, and die. Humans are not likely to ever see such trees again. The forest community will have no elders. See [[stories.uncertainty]]
 
-Large old trees are homes to many beings and hold many stories. We show topographies that create wet conditions, stands of giant trees, individual living and dead trees and their neighbours, bark, moss, lichen, epiphytes and animals that live within them. To trace this story, we use computational analysis and artificial intelligence to probe the data acquired by [[methods.imaging.tls]] laser imaging and [[methods.imaging.synchrotron-light]] radiation.
+Large old trees are homes to many beings and hold many stories. We show topographies that create wet conditions, stands of giant trees, individual living and dead trees and their neighbours, bark, moss, lichen, epiphytes and animals that live within them. To trace this story, we use computational analysis and artificial intelligence to probe the data acquired by [[wip.methods.imaging.tls]] laser imaging and [[wip.methods.imaging.synchrotron-light]] radiation.
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-004.png)
 
 What you see: three giant trees: one living; one dead, still standing; one fallen in the valleys of Tasmanian rainforests during the dying days of the Holocene.
 
-Who speaks: 400-year old Eucalyptus regnans trees (mountain ash, swamp gum, stringy bark, giant gum), first seen by humans some 60,000 years ago, distinct as the Eucalypteae tribe for some 60 million years; the tallest flowering plant on the Earth. See [[methods.stories.uniqueness]]. What the elders say:
+Who speaks: 400-year old Eucalyptus regnans trees (mountain ash, swamp gum, stringy bark, giant gum), first seen by humans some 60,000 years ago, distinct as the Eucalypteae tribe for some 60 million years; the tallest flowering plant on the Earth. See [[stories.uniqueness]]. What the elders say:
 > “Expecting our deaths at any moment, we grow quickly. In wet, cool refuges, we remain undisturbed. Here, we live for hundreds of years. We are now the elders. Yet, the forest is changing. Fires burn stronger and more often. Many elders have fallen.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-005.png)

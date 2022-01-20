@@ -2,7 +2,7 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642653592870
+updated: 1642698008953
 created: 1642491183255
 ---
 ## Wiki tasks
@@ -17,14 +17,14 @@ created: 1642491183255
 - [ ] provide additional argument structure documents
 
 
-- [ ] fill out character notes per story (chars: living/dead-standing/dead-collapsed regnans, small and big trees yellowbox, lily)
-- [ ] fill out event notes per story (events: logging, fire, decay, clearing, heating, odour-emitting)
+- [x] fill out character notes per story (chars: living/dead-standing/dead-collapsed regnans, small and big trees yellowbox, lily)
+- [x] fill out event notes per story (events: logging, fire, decay, clearing, heating, odour-emitting)
 - [ ] write definition of story
 - [ ] write definition of character
 - [ ] write definition of event
 
-- [ ] implement gitHub actions @sjaakjules
-- [ ] hide admin and not ready pages @sjaakjules
+- [x] implement gitHub actions @sjaakjules
+- [x] hide admin and not ready pages @sjaakjules
  
 ### Integrate video
 
@@ -34,7 +34,7 @@ created: 1642491183255
 
 - [x] create the main title
 - [x] create chapter titles on while, not on images
-- [ ] write up the script and upload for editing
+- [x] write up the script and upload for editing
 - [ ] record the captions as audio
 - [x] do not repeat images (inside of the trunk, foliage)
 - [x] stabilise static shots

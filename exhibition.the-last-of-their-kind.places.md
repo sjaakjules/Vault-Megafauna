@@ -16,7 +16,7 @@ Close to many cities and unnoticed by most human live the last remnants of a onc
 
 Our story follows a group of small, medium, and large trees. Using data analysis and artificial intelligence we recognise leaves, branches, and other vital features in complex tree structures. Combining these capabilities with observations of bird behaviour we consider relationships between trees and arboreal life, in support of better understanding of their roles and significance.
 
-See [[methods.imaging.tls]]
+See [[wip.methods.imaging.tls]]
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-022.png)
 
@@ -42,7 +42,7 @@ What the woodland says
 >What you see > Human-installed trees at a restoration site on the outskirts of Canberra that suffers from human action during the last 230 years.
 What the woodland says > “With the elder trees dying, the birds and others die too.”
 
-Refer [[methods.stories.decay]]
+Refer [[stories.decay]]
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-026.png)
 

@@ -116,7 +116,7 @@ Show how we obtain the data.
 
 ## Images, Sketches and Drafts
 
-For more images see [[methods.stories.uncertainty]] and [[methods.stories.uniqueness]]
+For more images see [[stories.uncertainty]] and [[stories.uniqueness]]
 
 ![](/assets/images/2021-10-20-12-48-39.png)
 
@@ -126,9 +126,9 @@ For more images see [[methods.stories.uncertainty]] and [[methods.stories.unique
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nUwOsBijUN2oLr8EED" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nUwOsBijUN2oLr8EED"></a></p>
 
-![[methods.imaging.tls]]
+![[wip.methods.imaging.tls]]
 
-![[methods.imaging.synchrotron-light]]
+![[wip.methods.imaging.synchrotron-light]]
 
 ## Artist Bio (300 words)
 

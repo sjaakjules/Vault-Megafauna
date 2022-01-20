@@ -166,7 +166,7 @@ Submission link: https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra
 
 # Images, sketches, drafts
 
-![[methods.stories.uncertainty#^1:#^2]]
+![[stories.uncertainty#^1:#^2]]
 
 # Technical and logistical requirements
 
