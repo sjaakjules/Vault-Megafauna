@@ -30,9 +30,6 @@ This wiki is divided into the following three sections. Research cluster, Dissem
 - Notes - Rough notes and meeting minutes.
 - WIP - Work in progress and behind the scenes documents.
 
-
 ### Full hierarchy  
 
-
-
-![[project-structure.framework]]
+Here is full thing.
