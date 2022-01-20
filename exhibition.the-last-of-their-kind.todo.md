@@ -2,10 +2,10 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642582243359
+updated: 1642653265791
 created: 1642491183255
 ---
-Wiki tasks
+## Wiki tasks
 
 - [x] divide into stories
 - [x] import slides
@@ -22,8 +22,12 @@ Wiki tasks
 - [ ] write definition of story
 - [ ] write definition of character
 - [ ] write definition of event
+ 
+### Integrate video
 
-Video tasks
+- [ ] integrate and explain the shots in the video (thumbnail and additional info, images, and references)
+
+## Video tasks
 
 - [ ] create the main title
 - [ ] create chapter titles on while, not on images
@@ -34,3 +38,9 @@ Video tasks
 - [ ] make images fill screen, frame as smaller images in the centre for documentary shots
 - [ ] give plenty of white/black space to all shots
 - [ ] can one fix the near clipping plane?
+
+## Future video tasks
+
+- [ ] debrief the video editing the The Last of Their Kind
+- [ ] generate more shots what animate data analysis (clustering, branch/leaf detecion, etc.; combine with simple and contrasting camera movements: toward, through; and views: front, top, axonometric)
+- [ ] produce a matrix of techniques and shots with thumbnails for future use
