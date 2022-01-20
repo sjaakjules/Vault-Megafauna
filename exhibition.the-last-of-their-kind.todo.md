@@ -2,7 +2,11 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
+<<<<<<< HEAD
 updated: 1642653592870
+=======
+updated: 1642655401576
+>>>>>>> 7395df4 (update)
 created: 1642491183255
 ---
 ## Wiki tasks
@@ -22,6 +26,9 @@ created: 1642491183255
 - [ ] write definition of story
 - [ ] write definition of character
 - [ ] write definition of event
+
+- [ ] implement gitHub actions @sjaakjules
+- [ ] hide admin and not ready pages @sjaakjules
  
 ### Integrate video
 
