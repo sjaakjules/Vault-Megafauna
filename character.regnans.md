@@ -2,10 +2,11 @@
 id: ThQyEIDthQVkROJCeNWx3
 title: Regnans
 desc: ''
-updated: 1642581866188
+updated: 1642638918624
 created: 1635307855059
 ---
 
+![](/assets/images/2021-10-20-15-40-56.png)
 
 >Eualypytus regnans, known more commonly as Mountain Ash or Swamp Gum, can grow to 100 metres tall and live for more than 500 years. For a long time this species held the record as the tallest flowering tree. But last year, a 100.8 m tall Yellow Meranti (Shorea faguetiana) in Borneo, claimed the title — surpassing our tallest Eucalypt, named Centrioun, by a mere 30 centimetres.
 >
@@ -15,7 +16,9 @@ created: 1635307855059
 
 From: [The Conversation](https://theconversation.com/photos-from-the-field-capturing-the-grandeur-and-heartbreak-of-tasmanias-giant-trees-144743)
 
-## Sites
+## Characters
 ![](/assets/images/2021-10-20-12-48-04.png)
 
-Location of sites.
+1. [[character.regnans.living-regnans]] in the Styx Valley.
+2. [[character.regnans.dead-regnans]], still standing, in the Huon valley.
+3. [[character.regnans.collapsed-regnans]] known as the Arve giant in the Huon valley.
