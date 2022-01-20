@@ -2,7 +2,7 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-human Knowledge Management
 desc: ''
-updated: 1642699011359
+updated: 1642699978729
 created: 1634169732979
 ---
 
@@ -61,9 +61,6 @@ Inclusiveness.
 
 Knowledge management systems create...an environment allows us to glue content together content that is resolved at different levels and extract interesting stories (needs to be inclusive, participatory, action-based).
 
-Stories.
-
-TODO: Write opportunity
 
 ### Research Question
 
