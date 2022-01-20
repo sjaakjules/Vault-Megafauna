@@ -2,11 +2,7 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-<<<<<<< HEAD
 updated: 1642653592870
-=======
-updated: 1642655401576
->>>>>>> 7395df4 (update)
 created: 1642491183255
 ---
 ## Wiki tasks
