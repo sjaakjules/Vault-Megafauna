@@ -2,26 +2,28 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-human Knowledge Management
 desc: ''
-updated: 1642653324028
+updated: 1642685698428
 created: 1634169732979
 ---
 
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
 
-### Project structure
+## Project structure
 
-#### Research cluster
+This wiki is divided into the following three sections. Research cluster, Dissemination and Administration. The research cluster is populated from numerous collaborative projects.
+
+### Research cluster
 
 - Methods - Details the various methods, techniques and technologies used.
 - Characters - Research on more-than-human characters of interest.
 - Events - Noteworthy events involving the characters.
 - Stories - Combination of characters and events worth telling.
 
-#### Dissemination
+### Dissemination
 
 - Exhibition - Finalised stories and exhibits for dissemination.
 
-#### Administration
+### Administration
 
 - Biographies - Authors of this wiki.
 - Collaborations - Information on people involved in previous projects.
