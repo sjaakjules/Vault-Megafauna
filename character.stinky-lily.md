@@ -2,7 +2,7 @@
 id: w827V0CrJdY9hPeDZfK2P
 title: Stinky Lily
 desc: ''
-updated: 1642744074613
+updated: 1642746191028
 created: 1642587018729
 ---
 
@@ -13,7 +13,15 @@ Initial sketch for Kew gardens. Specimen observed due to Mr Bull who collected r
 
 ![Typhonium brownii distribution](/assets/images/2022-01-19-23-19-45.png)
 Distribution of T. brownii taxa (black dots) and T. eliosurum (grey dots) (Atlas of Living Australia); letters correspond to the source locations of (A) T. brownii FNQ, (B) T. brownii SEQLD, (C) T. sp. aff. brownii (D), T. brownii NSW, (E) T. cf. brownii and (F) T. eliosurum. Images show the reproductive organs of hermaphrodite inflorescences with the spathe partially removed (scale bar = 1 cm).  
-Features shown are the spadix (surrounded by the spathe), consisting (from top to bottom) of the appendix, staminate zone above the spathe constriction, a sterile zone including hair-like extensions and the pistillate zone at the base of the floral chamber.<sup>1</sup>[[<sup>1</sup>#^1]]
+Features shown are the spadix (surrounded by the spathe), consisting (from top to bottom) of the appendix, staminate zone above the spathe constriction, a sterile zone including hair-like extensions and the pistillate zone at the base of the floral chamber.<sup>1</sup>
+
+[[<sup>to 1</sup>|#^1]]
+
+[[2|#^2]]
+
+[[<sup>To references</sup>|#references]]
+
+[[Reference|#references]]
 
 ## Anthesis, the flowering period
 
