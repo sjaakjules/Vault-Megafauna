@@ -2,9 +2,10 @@
 id: ThQyEIDthQVkROJCeNWx3
 title: Regnans
 desc: ''
-updated: 1642638918624
+updated: 1642735461743
 created: 1635307855059
 ---
+## Family: _Myrtaceae_ | Genus:  _Eucalyptus_ | Species: _regnans_
 
 ![](/assets/images/2021-10-20-15-40-56.png)
 
@@ -19,6 +20,6 @@ From: [The Conversation](https://theconversation.com/photos-from-the-field-captu
 ## Characters
 ![](/assets/images/2021-10-20-12-48-04.png)
 
-1. [[character.regnans.living-regnans]] in the Styx Valley.
-2. [[character.regnans.dead-regnans]], still standing, in the Huon valley.
-3. [[character.regnans.collapsed-regnans]] known as the Arve giant in the Huon valley.
+1. [[Living tree|character.regnans.1-living-regnans]] in the Styx Valley.
+2. [[Dead tree|character.regnans.2-dead-regnans]], still standing, in the Huon valley.
+3. [[Collapsed tree|character.regnans.3-collapsed-regnans]] known as the Arve giant in the Huon valley.

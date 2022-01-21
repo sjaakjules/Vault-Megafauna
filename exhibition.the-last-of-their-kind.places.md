@@ -2,14 +2,13 @@
 id: V0OMvBI9SoC48A82fXeEh
 title: The Last Places
 desc: ''
-updated: 1642565499035
+updated: 1642734425764
 created: 1642491678663
 ---
 
 #### Yellowbox (Eucalyptus melliodora) grassy woodlands
 
 #### 97% lost since the European Colonisation
-
 
 This story is about a disappearing form of landscape and its interlinked communities.
 Close to many cities and unnoticed by most human live the last remnants of a once mighty community. These communities of yellowbox trees, grasses and many other beings last thousands of years. Birds nest in dead branches of older trees and feed on the insects in rotting bark. Lizards and insects hide in the grass or on in the folds of the trunks. Recent human land use destroys saplings and as the older trees die, the community dwindles.

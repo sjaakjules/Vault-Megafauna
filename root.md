@@ -2,7 +2,7 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-human Knowledge Management
 desc: ''
-updated: 1642730909254
+updated: 1642736351665
 created: 1634169732979
 ---
 
@@ -67,3 +67,7 @@ How can more-than-human knowledge be organised and expressed to maximise inclusi
 ### Hypothesis
 
 [1.2] Technologically amplified [2] stories [3] can help to [1.3.1] capture, [1.3.2] make inclusive and [1.3.3] communicate [3] human and more-than-human forms of [1] knowledge.
+
+## References
+
+1. Dooren, Thom van, and Deborah Bird Rose. ‘Lively Ethography: Storying Animist Worlds’. Environmental Humanities 8, no. 1 (1 May 2016): 77–94. https://doi.org/10/gfzskg.

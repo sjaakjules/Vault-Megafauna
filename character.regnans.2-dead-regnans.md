@@ -1,11 +1,11 @@
 ---
 id: c5V0xI2dibAH48Y7QaGJn
-title: Dead Regnans
+title: 2 Dead Regnans
 desc: ''
-updated: 1642580283189
+updated: 1642739544228
 created: 1642566029072
 ---
-The second character of the story is a standing but dead _Eucalyptus Regnans_. This tree died in the 2019 Tasmanian bushfires. See [[event.fire]].
+The second character of the story is a standing but dead _Eucalyptus Regnans_. This tree died in the 2019 Tasmanian bushfires. See [[fire|event.fire]] event for further information.
 
 ![](assets/images/bennets/Bennets.jpg)
 
@@ -16,4 +16,3 @@ Biomass and structure type at burnt and unburnt sites
 
 Vegetation remaining (coloured, from ground based scan) and destroyed in fire (green, from historic aerial scan)
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-007.png)
-

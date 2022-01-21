@@ -2,11 +2,12 @@
 id: w827V0CrJdY9hPeDZfK2P
 title: Stinky Lily
 desc: ''
-updated: 1642604716294
+updated: 1642735365065
 created: 1642587018729
 ---
 
-Family: _Araceae_ | Genus:  _Typhonium_ | Species: _brownii_  
+## Family: _Araceae_ | Genus:  _Typhonium_ | Species: _brownii_
+
 ![Typhonium brownii](assets/images/lily/Typhonium_brownii_CBM.png){max-width: 400px}  
 Initial sketch for Kew gardens. Specimen observed due to Mr Bull who collected rare plants even when little commercial worth existed.<sup>2</sup>
 

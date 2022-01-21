@@ -2,7 +2,7 @@
 id: apqGx2pGS2AocFYDwY2Ok
 title: Logging
 desc: ''
-updated: 1642567748102
+updated: 1642736882323
 created: 1642567685104
 ---
 
@@ -47,3 +47,8 @@ Source: [The Tree Projects](https://www.thetreeprojects.com)
 Source: [The Tree Projects](https://www.thetreeprojects.com)
 
 We measure [[wip.methods.imaging.synchrotron-light]] using terrestrial LiDaR and [[wip.methods.imaging.synchrotron-light]] using the Synchrotron
+
+## References
+
+1. Lindenmayer, David B., Jeff Wood, Lachlan McBurney, David Blair, and Sam C. Banks. ‘Single Large Versus Several Small: The Sloss Debate in the Context of Bird Responses to a Variable Retention Logging Experiment’. Forest Ecology and Management 339, no. 0 (2015): 1–10. https://doi.org/10/f64h62.
+2. 
