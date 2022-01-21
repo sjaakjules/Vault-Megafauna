@@ -1,38 +1,10 @@
 ---
-id: mtBP3fMOgzuzOBbE33Ik0
-title: More-than-Human Knowledge Management
+id: fKVqI6pdq30wbRyJ5XyD0
+title: Wiki Introduction
 desc: ''
-updated: 1642760248694
-created: 1634169732979
+updated: 1642760171544
+created: 1642760103754
 ---
-![](assets/images/barrer-structured-light/barrer-structured15.jpg)
-
-What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
-
-This research wiki is divided into two sections the research cluster and dissemination. The research cluster is populated from collaborative projects conducted by a research collective [[Deep Design Lab|about]]. Dissemination are moments when the research coalesce into an exhibit.
-
-### Wiki structure
-
-- _About_ - Information on wiki authors and project collaborators.
-- _Exhibition_ - Stories and exhibits for dissemination.
-  - The Last of their Kind - Exhibit for SIGGRAPH 2022
-- _Methods_ - Details the various methods, techniques and technologies used.
-- _Characters_ - Research on more-than-human characters of interest.
-  - regnans
-  - Stinky lily
-  - Yellowbox
-- _Events_ - Noteworthy events involving the characters.
-  - Fire
-  - Floral traps
-  - Land Clearing
-- _Stories_ - Combination of characters and events worth telling.
-  - Decay
-  - Uncertainty
-  - Uniqueness
-
-
-## Mission Statement
-
 ### Significance: More-than-Human Knowledge Management
 
 The unfolding environmental crisis calls for better understanding and management of the Earth’s habitats. The ever-increasing amount of data humans gather about the planet is a common strategy for the assessment of the impact and the planning of remediation. Our research seeks to expand the notion of knowledge management to include nonhuman lifeforms as empowered contributors to collective storytelling. We argue that this redefinition of data, storytelling and knowledge is necessary in the era where human-centred approaches fail to address ecological devastation.
@@ -49,12 +21,23 @@ Recent work emphasise that knowledge is better understood as clusters that are d
 
 The next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knowledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. The differences can be large due to different evolutionary backgrounds, life histories, mutual (in)visibilities, and the inherently incompatible needs of different lifeforms.
 
+In this context, human sensibilities, technologies, and languages do not suffice. There are issues from subjectivity,  Issue of knowledge and knowledge representation, communication (participation), retention (placement)
+
+- Subjectivity, points of view, biases, coupling, etc.
+- Incompleteness.
+- Privilege of knowledge communicated through human language.
+- Goal orientation and biases from that
+
+### Opportunity: More-than-human storytelling
+
+Inclusiveness.
+
+Knowledge management systems create...an environment allows us to glue content together content that is resolved at different levels and extract interesting stories (needs to be inclusive, participatory, action-based).
+
 ### Research Question
 
 How can more-than-human knowledge be organised and expressed to maximise inclusivity about nonhuman places and lifeforms?
 
 ### Hypothesis
 
-Technologically amplified stories can help to capture, make inclusive and communicate human and more-than-human forms of knowledge.
-
-
+[1.2] Technologically amplified [2] stories [3] can help to [1.3.1] capture, [1.3.2] make inclusive and [1.3.3] communicate [3] human and more-than-human forms of [1] knowledge.

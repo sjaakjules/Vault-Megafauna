@@ -123,7 +123,7 @@ For more images see [[stories.uncertainty]] and [[stories.uniqueness]]
 
 ![[wip.methods.imaging.tls]]
 
-![[wip.methods.imaging.synchrotron-light]]
+![[methods.tomography]]
 
 ## Artist Bio (300 words)
 

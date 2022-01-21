@@ -2,7 +2,7 @@
 id: YFm4fWc9Oi6q8gSqDdCvJ
 title: 1 Living Regnans
 desc: ''
-updated: 1642748511998
+updated: 1642760552238
 created: 1642566011430
 ---
 The first character in the story is a living 500 year old tree in the Styx valley. This stand of trees have survived disturbances including [[fire|event.fire]] and [[land clearing|event.land-clearing]].
@@ -15,17 +15,15 @@ The first character in the story is a living 500 year old tree in the Styx valle
 
 >Some of the remaining giant trees of the Styx Valley were saved from logging by years of dedicated campaigning by the Wilderness Society & Greenpeace. In 2013, part of the Styx Valley was incorporated into the Tasmanian Wilderness World Heritage Area thanks to the Tasmanian Forestry Agreement, which is sometimes called the Forest Peace Deal. Successive Tasmanian governments have worked hard to dismantle this agreement.
 >
->This site is home to one of the most successful protest actions which saved the Styx Valley from being logged and saw its rivers and ancient forests added to the Tasmanian Wilderness World Heritage Area in 2013. The Global Rescue Station, a collaboration between Greenpeace and the Wilderness Society, was a series of platforms perched in a magnificent swamp gum where activists from around Australia and the planet lived aloft, sending interviews, photographs and video footage to the world. The tree was named Gandalf’s Staff, and it is the star of this walk that makes its way through a wonderland of ancient trees and luscious ferns suggestive of Tolkein’s Middle Earth. 
+>This site is home to one of the most successful protest actions which saved the Styx Valley from being logged and saw its rivers and ancient forests added to the Tasmanian Wilderness World Heritage Area in 2013. The Global Rescue Station, a collaboration between Greenpeace and the Wilderness Society, was a series of platforms perched in a magnificent swamp gum where activists from around Australia and the planet lived aloft, sending interviews, photographs and video footage to the world. The tree was named Gandalf’s Staff, and it is the star of this walk that makes its way through a wonderland of ancient trees and luscious ferns suggestive of Tolkein’s Middle Earth.
 
 Source: [The Tree Projects](https://www.thetreeprojects.com/styx-valley)
 
 ![Cluster of living giants](assets/images/styx/cluster.png)
 
-
-
 A cluster of living giant regnans in the Styx valley (green boxes).
 
-## Agent: _Euclytpus regans_.
+## Agent: _Euclytpus regans_
 
 The first regnans character is a living regnans in the Styx valley.
 
@@ -56,6 +54,5 @@ Source: [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasma
 >Large streamers of decorticating bark hanging from the lateral branches of large old mountain ash (Eucalyptus regnans) trees in Australia. These streamers are best developed on the largest trees in old-growth stands (Lindenmayer et al., 2000) and are an unstudied microhabitat for a rich array of invertebrate taxa such as flightless tree crickets (insect). [^1]
 
 ![](assets/images/styx/styx-1-3.jpg)
-
 
 [^1]: Lindenmayer, David B., and William F. Laurance. ‘The Ecology, Distribution, Conservation and Management of Large Old Trees’. Biological Reviews, no. 132 (2016): 1434–58. https://doi.org/10/gdvpqh.

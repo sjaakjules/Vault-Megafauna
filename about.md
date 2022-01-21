@@ -1,12 +1,12 @@
 ---
 id: UdsK2eXHH7gbdCQMqwVRr
-title: Biographies
+title: About
 desc: ''
-updated: 1642756156894
+updated: 1642756600907
 created: 1642698151718
 ---
 
-The authorship of this wiki belongs to Deep Design Lab, a creative collective. The active members of this wiki within the team includes: [^1]
+The authorship of this wiki belongs to Deep Design Lab, a creative collective. The active members of this wiki within the team includes:
 
 ***Alexander Holland***, at the University of Melbourne, investigates the digital and physical characteristics and design opportunities of past and future environments. His experiments expand the reach of participatory design to include nonhuman as well as human inhabitants.
 
@@ -19,21 +19,21 @@ Together, the team has extensive design, art and architecture experience with ma
 
 ### Biologists
 
-Rebecca Miller. Expert in plant biology and conservation at the Royal Botanic Gardens and Honorary Lecturer in the School of Ecosystem and Forest Sciences at the University of Melbourne.
+_**Rebecca Miller**_, an expert in plant biology and conservation at the Royal Botanic Gardens and Honorary Lecturer in the School of Ecosystem and Forest Sciences at the University of Melbourne.
 
-Darren Le Roux. Environmental Project Officer, ACT Parks and Conservation Service and Honorary Senior Lecturer in the Fenner School of Environment and Society at the Australian National University.
+_**Darren Le Roux**_, an environmental Project Officer, ACT Parks and Conservation Service and Honorary Senior Lecturer in the Fenner School of Environment and Society at the Australian National University.
 
-Phil Gibbons. Professor and Associate Director of Higher-degree Research at the Fenner School of Environment and Society, the Australian National University.
+_**Phil Gibbons**_, a professor and Associate Director of Higher-degree Research at the Fenner School of Environment and Society, the Australian National University.
 
-Yoav Daniel Bar-Ness. An outreach Ecologist leading 'Giant Tree Expeditions' in Tasmania and an editor at the Tasmanian Geographic.
+_**Yoav Daniel Bar-Ness**_, an outreach Ecologist leading 'Giant Tree Expeditions' in Tasmania and an editor at the Tasmanian Geographic.
 
-### Imaging specialists
+### Imaging Specialists
 
-Jay Black. Experimental Geochemist/Micro-CT Specialist in the School of Earth Sciences at the University of Melbourne.
+_**Jay Black**_, an experimental Geochemist/Micro-CT Specialist in the School of Earth Sciences at the University of Melbourne.
 
-Anton Maksimenko. Senior Beamline Scientist at the Soft X-ray Beamline at the Australian Synchrotron.
+_**Anton Maksimenko**_, the senior Beamline Scientist at the Soft X-ray Beamline at the Australian Synchrotron.
 
-## Supporting Members
+### Supporting Deep Design Lab Members
 
 The work which underpins this wiki spans multiple years and multiple projects. Although not all members of Deep design lab contribute directly to this wiki, their own work within the collective informs and enriches this work. The following is a list of researches either currently or previously involved with Deep Design Lab.
 

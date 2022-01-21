@@ -46,7 +46,7 @@ Source: [The Tree Projects](https://www.thetreeprojects.com)
 
 Source: [The Tree Projects](https://www.thetreeprojects.com)
 
-We measure [[wip.methods.imaging.synchrotron-light]] using terrestrial LiDaR and [[wip.methods.imaging.synchrotron-light]] using the Synchrotron
+We measure [[methods.tomography]] using terrestrial LiDaR and [[methods.tomography]] using the Synchrotron
 
 ## References
 
