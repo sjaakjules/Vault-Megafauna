@@ -2,9 +2,13 @@
 id: 4nkxzqR8shWh8cxilfBD0
 title: The Last of Their Kind
 desc: ''
-updated: 1642749948093
+updated: 1642752646547
 created: 1642491171998
 ---
+
+**An exhibit for the [SIGGRAPH Digital Artist Community Exhibition](https://earth-our-home.siggraph.org/) (2022): _The Earth is Our Home: Art, Technology, and Critical Action_**
+
+_by Deep Design Lab_
 
 _The Last of Their Kind_ is an outcome of a research program that seeks to open possibilities for participatory designing that involves nonhuman lifeforms.
 

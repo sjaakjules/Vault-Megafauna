@@ -2,13 +2,11 @@
 id: noQhXTReEOFcPBh7NnDdg
 title: The Last Blooms
 desc: ''
-updated: 1642751436144
+updated: 1642752361037
 created: 1642491646456
 ---
 
-**Stinky lily (_Typhonium species affinis brownii_)**
-
-**Less than 100 left in the wild**
+**Stinky lily (_Typhonium species affinis brownii_), Less than 100 left in the wild**
 
 This story is about a disappearing behaviour and its participants.
 
@@ -18,42 +16,42 @@ Mostly living in labs, this plant blooms only one day per year. Our story follow
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-013.png)
 
->**What you see** > A flower in bloom in late summer within a greenhouse in Burnley Gardens, Melbourne, Australia.
->**Who speaks** > Typhonium sp. aff. brownie (stinky lily).
->**What the lily says** > “I can leave in this pot. Resting underground, I am ready to sprout new leaves.”
+**What you see** > A flower in bloom in late summer within a greenhouse in Burnley Gardens, Melbourne, Australia.
+**Who speaks** > Typhonium sp. aff. brownie (stinky lily).
+**What the lily says** > “I can leave in this pot. Resting underground, I am ready to sprout new leaves.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-014.png)
 
->**What you see** > A flower in motion, with stages of movement shown by different colours: cyan, blue, pink, orange, yellow.
->**What the lily says** > “I bloom on a hot sunny day, after weeks of growth, for twenty-four hours. My purple spathe stands out against the ground of the forest.”
+**What you see** > A flower in motion, with stages of movement shown by different colours: cyan, blue, pink, orange, yellow.
+**What the lily says** > “I bloom on a hot sunny day, after weeks of growth, for twenty-four hours. My purple spathe stands out against the ground of the forest.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-015.png)
 
->**What you see** > After 12 hours, the flower is in full bloom.
->**What the lily says** > “My courtship begins. I beckon others with the smell of faeces. Those who can help like this smell and the others will stay away.”
+**What you see** > After 12 hours, the flower is in full bloom.
+**What the lily says** > “My courtship begins. I beckon others with the smell of faeces. Those who can help like this smell and the others will stay away.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-016.png)
 
->**What you see** > The heating of the central organ.
->**What the lily says** > “My odour is not enough. I heat up, a beacon to passers-by. My masquerade is complete: fresh warm dung.”
+**What you see** > The heating of the central organ.
+**What the lily says** > “My odour is not enough. I heat up, a beacon to passers-by. My masquerade is complete: fresh warm dung.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-017.png)
 
->**What you see** > The beetle mistakes a stink lily for food and a brood site; the intricate structure of the leaf.
->**Who speaks** > Onthophagus tuckonie (dung beetle).
->**What the beetle says** > “Flying through the understory I search for food. I am ready to breed. I think this is it, but where is the dung? I cannot rest on the slippery spathe…”
+**What you see** > The beetle mistakes a stink lily for food and a brood site; the intricate structure of the leaf.
+**Who speaks** > Onthophagus tuckonie (dung beetle).
+**What the beetle says** > “Flying through the understory I search for food. I am ready to breed. I think this is it, but where is the dung? I cannot rest on the slippery spathe…”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-018.png)
 
->**What you see** > A labyrinth of hairy tubes and female florets.
->**What the beetle says** > “I made a fertilisation trap. My florets are waiting for the pollen hitchhiking on my captive as it falls into my chamber. My plan is to coat this captive in my pollen before releasing it in the morning. Then they are free to go and fertilise another lily.”
+**What you see** > A labyrinth of hairy tubes and female florets.
+**What the beetle says** > “I made a fertilisation trap. My florets are waiting for the pollen hitchhiking on my captive as it falls into my chamber. My plan is to coat this captive in my pollen before releasing it in the morning. Then they are free to go and fertilise another lily.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-019.png)
 
->**What you see** > The view of a beetle falling into the flower.
->**What the beetle says** > “The scent of dung is intense but I see no food or a place for my eggs. I am covered in pollen.”
+**What you see** > The view of a beetle falling into the flower.
+**What the beetle says** > “The scent of dung is intense but I see no food or a place for my eggs. I am covered in pollen.”
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-020.png)
 
->**What you see** > A tomographic image of bloom event including the internal feature of the flower.
->**What the beetle and lily say** > “If lilies survive only in human buildings, in human care, our relationships will disappear.”
+**What you see** > A tomographic image of bloom event including the internal feature of the flower.
+**What the beetle and lily say** > “If lilies survive only in human buildings, in human care, our relationships will disappear.”
