@@ -2,7 +2,7 @@
 id: ThQyEIDthQVkROJCeNWx3
 title: Regnans
 desc: ''
-updated: 1642735461743
+updated: 1642742992153
 created: 1635307855059
 ---
 ## Family: _Myrtaceae_ | Genus:  _Eucalyptus_ | Species: _regnans_
@@ -18,7 +18,7 @@ created: 1635307855059
 From: [The Conversation](https://theconversation.com/photos-from-the-field-capturing-the-grandeur-and-heartbreak-of-tasmanias-giant-trees-144743)
 
 ## Characters
-![](/assets/images/2021-10-20-12-48-04.png)
+![](assets/images/2021-10-20-12-48-04.png)
 
 1. [[Living tree|character.regnans.1-living-regnans]] in the Styx Valley.
 2. [[Dead tree|character.regnans.2-dead-regnans]], still standing, in the Huon valley.

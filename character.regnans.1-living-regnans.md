@@ -2,16 +2,16 @@
 id: YFm4fWc9Oi6q8gSqDdCvJ
 title: 1 Living Regnans
 desc: ''
-updated: 1642740639671
+updated: 1642742455367
 created: 1642566011430
 ---
 The first character in the story is a living 500 year old tree in the Styx valley. This stand of trees have survived disturbances including [[fire|event.fire]] and [[land clearing|event.land-clearing]].
 
-![](/assets/images/styx/IMG_6681-Pano-Edit.jpg)
+![](assets/images/styx/IMG_6681-Pano-Edit.jpg)
 
 ## Location: Tolken Track, Styx
 
-![](/assets/images/2021-10-20-15-40-56.png)
+![](assets/images/2021-10-20-15-40-56.png)
 
 >Some of the remaining giant trees of the Styx Valley were saved from logging by years of dedicated campaigning by the Wilderness Society & Greenpeace. In 2013, part of the Styx Valley was incorporated into the Tasmanian Wilderness World Heritage Area thanks to the Tasmanian Forestry Agreement, which is sometimes called the Forest Peace Deal. Successive Tasmanian governments have worked hard to dismantle this agreement.
 >
@@ -53,7 +53,7 @@ Source: [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasma
 
 >Large streamers of decorticating bark hanging from the lateral branches of large old mountain ash (Eucalyptus regnans) trees in Australia. These streamers are best developed on the largest trees in old-growth stands (Lindenmayer et al., 2000) and are an unstudied microhabitat for a rich array of invertebrate taxa such as flightless tree crickets (insect). [1]
 
-![](/assets/images/styx/styx-1-3.jpg)
+![](assets/images/styx/styx-1-3.jpg)
 
 [1]: <https://doi.org/10/gdvpqh> "Lindenmayer, David B., and William F. Laurance. “The Ecology, Distribution, Conservation and Management of Large Old Trees.” Biological Reviews, no. 132 (2016): 1434–58"
 

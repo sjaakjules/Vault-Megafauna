@@ -2,14 +2,14 @@
 id: w827V0CrJdY9hPeDZfK2P
 title: Stinky Lily
 desc: ''
-updated: 1642740823681
+updated: 1642742363277
 created: 1642587018729
 ---
 
 ## Family: _Araceae_ | Genus:  _Typhonium_ | Species: _brownii_
 
 ![Typhonium brownii](assets/images/lily/Typhonium_brownii_CBM.png){max-width: 400px}  
-Initial sketch for Kew gardens. Specimen observed due to Mr Bull who collected rare plants even when little commercial worth existed.<sup>2</sup>
+Initial sketch for Kew gardens. Specimen observed due to Mr Bull who collected rare plants even when little commercial worth existed.[[<sup>2</sup>|#^2]]
 
 ![Typhonium brownii distribution](/assets/images/2022-01-19-23-19-45.png)
 Distribution of T. brownii taxa (black dots) and T. eliosurum (grey dots) (Atlas of Living Australia); letters correspond to the source locations of (A) T. brownii FNQ, (B) T. brownii SEQLD, (C) T. sp. aff. brownii (D), T. brownii NSW, (E) T. cf. brownii and (F) T. eliosurum. Images show the reproductive organs of hermaphrodite inflorescences with the spathe partially removed (scale bar = 1 cm).  
@@ -43,8 +43,8 @@ LiDAR scan of _Typhonium wilbertii_ flower before it has fully opened.
 
 ## References
 
->1. Sayers, Thomas, Martin Steinbauer, Kevin Farnier, and Rebecca Miller. ‘Dung Mimicry in _Typhonium (Araceae)_: Explaining Floral Trait and Pollinator Divergence in a Widespread Species Complex and a Rare Sister Species’. Botanical Journal of the Linnean Society 193 (2020): 375–401. <https://doi.org/10/gjkgwx>.
->2. Hooker, Joseph Dalton. "Typhonium brownii" Curtis's Botanical Magazine 101, [ser.3:v.31] (1875): tab. 6180.
+>1. Sayers, Thomas, Martin Steinbauer, Kevin Farnier, and Rebecca Miller. ‘Dung Mimicry in _Typhonium (Araceae)_: Explaining Floral Trait and Pollinator Divergence in a Widespread Species Complex and a Rare Sister Species’. Botanical Journal of the Linnean Society 193 (2020): 375–401. <https://doi.org/10/gjkgwx>. ^1
+>2. Hooker, Joseph Dalton. "Typhonium brownii" Curtis's Botanical Magazine 101, [ser.3:v.31] (1875): tab. 6180. ^2
 
 Notable references
 

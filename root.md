@@ -2,15 +2,13 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-human Knowledge Management
 desc: ''
-updated: 1642741258771
+updated: 1642742206072
 created: 1634169732979
 ---
 
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
 
 This research wiki is divided into the following three sections. Research cluster, Dissemination and Administration. The research cluster is populated from  [[collaborative|administration.collaborations]] projects within a research collective [[Deep Design Lab|administration.biographies]].
-
-![[administration.collaborations#Biologists:#Imaging-specialists]]
 
 ### Research cluster
 
@@ -46,7 +44,7 @@ Recent work emphasise that knowledge is better understood as clusters that are d
 
 The next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knowledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. The differences can be large due to different evolutionary backgrounds, life histories, mutual (in)visibilities, and the inherently incompatible needs of different lifeforms.
 
-TODO: insert specific examples of more-than-human knowledge clusters
+-[ ] #TODO: insert specific examples of more-than-human knowledge clusters
 
 In this context, human sensibilities, technologies, and languages do not suffice. Issue of knowledge and knowledge representation, communication (participation), retention (placement)
 
