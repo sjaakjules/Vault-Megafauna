@@ -7,6 +7,11 @@ created: 1642491183255
 ---
 ## Wiki tasks
 
+To write new content
+- [ ] write definition of story
+- [ ] write definition of character
+- [ ] write definition of event
+- [ ] 
 - [x] divide into stories
 - [x] import slides
 - [ ] provide supporting evidence with references (in Chicago full note) 
@@ -16,12 +21,31 @@ created: 1642491183255
 - [ ] include credits for all content
 - [ ] provide additional argument structure documents
 
+Admin
+- [ ] images for bios?
+- [ ] bios for DDL people
+
+Character
+- [ ] add references.
+- [ ] link to events, stories, exhibition.
+- [ ] Living regnans improve pointcloud
+
+Events
+- [ ] remove links to methods. 
+- [ ] tidy up text and combine land-clearing and logging
+Methods
+
+Stories
+
+exhibition
+
+
+![](assets/images/2022-01-21-14-11-31.png)
+
+## Done
 
 - [x] fill out character notes per story (chars: living/dead-standing/dead-collapsed regnans, small and big trees yellowbox, lily)
 - [x] fill out event notes per story (events: logging, fire, decay, clearing, heating, odour-emitting)
-- [ ] write definition of story
-- [ ] write definition of character
-- [ ] write definition of event
 
 - [x] implement gitHub actions @sjaakjules
 - [x] hide admin and not ready pages @sjaakjules

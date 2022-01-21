@@ -2,13 +2,15 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-human Knowledge Management
 desc: ''
-updated: 1642736351665
+updated: 1642741258771
 created: 1634169732979
 ---
 
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
 
 This research wiki is divided into the following three sections. Research cluster, Dissemination and Administration. The research cluster is populated from  [[collaborative|administration.collaborations]] projects within a research collective [[Deep Design Lab|administration.biographies]].
+
+![[administration.collaborations#Biologists:#Imaging-specialists]]
 
 ### Research cluster
 

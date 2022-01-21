@@ -2,7 +2,7 @@
 id: w827V0CrJdY9hPeDZfK2P
 title: Stinky Lily
 desc: ''
-updated: 1642735365065
+updated: 1642740823681
 created: 1642587018729
 ---
 
@@ -20,11 +20,9 @@ Features shown are the spadix (surrounded by the spathe), consisting (from top t
 ![Typhonium brownii labels](assets/images/lily/Annotated-3D-image-T-brownii.jpg)
 Annotation of endangered Typhonium sp. aff. brownii by Rebecca Miller.
 
-
-
 ## Floral scent
 
-![](/assets/images/2022-01-20-00-53-23.png)
+![](/assets/images/2022-01-20-00-53-23.png){max-width: 400px}
 Typical scent chromatograms for (A) T. brownii FNQ, (B) T. brownii SEQLD, (C) T. sp. aff. brownii, (D) T. brownii NSW, (E) T. cf. brownii, and (F) T. eliosurum. Eight VOCs with the largest % peak area for each T. brownii taxon and T. eliosurum are labelled in that region/species and across other regions/species if also detected.<sup>1</sup>  
 Numbers indicate the following compounds:  
 (1) α-phellandrene, (2) unknown 1437, (3) α-copaene, (4) pentadecane, (5) unknown 1531, (6) α-gurjunene, (7) *neoisolongifolene, (8) unknown 1591, (9) β-gurjunene, (10) β-caryophyllene, (11) unknown 1607, (12) aromandendrene, (13) *valerena-4,7(11)-diene, (14) α-guaiene, (15) alloaromadendrene, (16) acetophenone, (17) α-humulene, (18) unknown 1689, (19) unknown 1700, (20) caparratriene, (21) methyl geranate, (22) viridiflorene, (23) germacrene D, (24) bicyclogermacrene, (25) δ-cadinene, (26) unknown 1781, (27) dihydro-β-ionone, (28) geranylacetone, (29) junenol, (30) p-cresol, (31) indole, (32) skatole (*identification by library match only).<sup>1</sup>
