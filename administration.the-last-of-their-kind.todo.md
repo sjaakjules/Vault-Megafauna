@@ -2,13 +2,14 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642742224533
+updated: 1642751256808
 created: 1642491183255
 published: false
 ---
 ## Wiki tasks
 
 To write new content
+
 - [ ] write definition of story
 - [ ] write definition of character
 - [ ] write definition of event
@@ -23,22 +24,30 @@ To write new content
 - [ ] provide additional argument structure documents
 
 Admin
+
 - [ ] images for bios?
 - [ ] bios for DDL people
 
 Character
+
 - [ ] add references.
 - [ ] link to events, stories, exhibition.
 - [ ] Living regnans improve pointcloud
 
 Events
+
 - [ ] remove links to methods. 
 - [ ] tidy up text and combine land-clearing and logging
+
+Style
+
+- [ ] match the 'bloom' style: headings, captions, bolding @sjaakjules
+
 Methods
 
 Stories
 
-exhibition
+Exhibition
 
 
 ![](assets/images/2022-01-21-14-11-31.png)
