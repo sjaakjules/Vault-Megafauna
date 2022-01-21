@@ -2,13 +2,13 @@
 id: noQhXTReEOFcPBh7NnDdg
 title: The Last Blooms
 desc: ''
-updated: 1642751330283
+updated: 1642751436144
 created: 1642491646456
 ---
 
-## Stinky lily (Typhonium species affinis brownii)
+**Stinky lily (_Typhonium species affinis brownii_)**
 
-### Less than 100 left in the wild
+**Less than 100 left in the wild**
 
 This story is about a disappearing behaviour and its participants.
 
