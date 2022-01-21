@@ -2,7 +2,7 @@
 id: 4nkxzqR8shWh8cxilfBD0
 title: The Last of Their Kind
 desc: ''
-updated: 1642752646547
+updated: 1642752690687
 created: 1642491171998
 ---
 
@@ -22,7 +22,7 @@ Nobody has a complete answer, but we can try to bear witness, record as a lesson
 
 To engage with these beings, we use lasers, magnetic fields, and particle accelerators to generate detailed data representations of plant worlds. Applying analytical tools and artificial intelligence to this data, we seek to capture the richness and nuance of behaviours, capabilities and preferences that characterise nonhuman lives. Interspecies stories are hard to narrate. Their characters have evolutionary backgrounds, life histories, capabilities and scales that are not intuitive to humans. Our imaging technologies span from kilometres to microns to expose histories and futures from new perspectives: high above a rainforest, deep within a tree trunk, or only visible in the infrared.
 
-![](/assets/images/2022-01-21-18-24-06.png)
+![](/assets/images/2022-01-21-18-24-06.png){width: 500px}
 
 These stories attempt to create a narrative world that can support multiple perspectives, including nonhuman. We believe such spaces are a foundation for fairer and more hopeful interspecies futures.
 
