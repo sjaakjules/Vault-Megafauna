@@ -2,7 +2,7 @@
 id: noQhXTReEOFcPBh7NnDdg
 title: The Last Blooms
 desc: ''
-updated: 1642751169336
+updated: 1642751330283
 created: 1642491646456
 ---
 
@@ -11,6 +11,7 @@ created: 1642491646456
 ### Less than 100 left in the wild
 
 This story is about a disappearing behaviour and its participants.
+
 The lily takes twenty-four hours to open its petals. It heats its central organ and releases odours that mimic dung to attract a beetle. After twelve hours, the petals close, trapping the guest for an overnight stay. The beetle brushes against the lily’s pollen and is free in the morning. The flower dies: other lilies await their turns.
 
 Mostly living in labs, this plant blooms only one day per year. Our story follows its mating ritual with thermal cameras, three-dimensional surface scanning and microscopic tomography that can look inside of objects. We use multiple scans from many devices to create and animate composite images.
