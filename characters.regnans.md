@@ -21,6 +21,6 @@ From: [The Conversation](https://theconversation.com/photos-from-the-field-captu
 
 ![](assets/images/2021-10-20-12-48-04.png)
 
-1. [[Living tree|character.regnans.1-living-regnans]] in the Styx Valley.
-2. [[Dead tree|character.regnans.2-dead-regnans]], still standing, in the Huon valley.
-3. [[Collapsed tree|character.regnans.3-collapsed-regnans]] known as the Arve giant in the Huon valley.
+1. [[Living tree|characters.regnans.1-living-regnans]] in the Styx Valley.
+2. [[Dead tree|characters.regnans.2-dead-regnans]], still standing, in the Huon valley.
+3. [[Collapsed tree|characters.regnans.3-collapsed-regnans]] known as the Arve giant in the Huon valley.
