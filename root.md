@@ -2,7 +2,7 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-Human Knowledge Management
 desc: ''
-updated: 1642760248694
+updated: 1642770708297
 created: 1634169732979
 ---
 ![](assets/images/barrer-structured-light/barrer-structured15.jpg)
@@ -11,10 +11,10 @@ What is knowledge? - body shape, behaviour, subjectivity and perception, pattern
 
 This research wiki is divided into two sections the research cluster and dissemination. The research cluster is populated from collaborative projects conducted by a research collective [[Deep Design Lab|about]]. Dissemination are moments when the research coalesce into an exhibit.
 
-### Wiki structure
+## Wiki structure
 
 - _About_ - Information on wiki authors and project collaborators.
-- _Exhibition_ - Stories and exhibits for dissemination.
+- _Exhibitions_ - Stories and exhibits for dissemination.
   - The Last of their Kind - Exhibit for SIGGRAPH 2022
 - _Methods_ - Details the various methods, techniques and technologies used.
 - _Characters_ - Research on more-than-human characters of interest.
@@ -29,7 +29,6 @@ This research wiki is divided into two sections the research cluster and dissemi
   - Decay
   - Uncertainty
   - Uniqueness
-
 
 ## Mission Statement
 
@@ -56,5 +55,3 @@ How can more-than-human knowledge be organised and expressed to maximise inclusi
 ### Hypothesis
 
 Technologically amplified stories can help to capture, make inclusive and communicate human and more-than-human forms of knowledge.
-
-
