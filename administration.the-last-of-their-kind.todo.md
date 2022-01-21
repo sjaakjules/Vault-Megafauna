@@ -2,52 +2,43 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642760468389
+updated: 1642766260233
 created: 1642491183255
 published: false
 ---
 ## Wiki tasks
+
+- [ ] fix broken image living regnans
+- [ ] export better potree windows
+- [ ] fix links to research for exhibition
+- [x] match the 'bloom' style: headings, captions, bolding @sjaakjules
+- [ ] methods landing has content
+- [ ] methods videos sizes too large
+- [ ] stories are repetition of info in events.
+- [ ] Decay can be moved to events.
+- [ ] images for bios?
+- [ ] bios for DDL people
+- [ ] cross link all pages, characters, events, exhibition
+- [ ] Decay has references, fix to use footnote style
 
 To write new content
 
 - [ ] write definition of story
 - [ ] write definition of character
 - [ ] write definition of event
-- [ ] 
+- [ ] write definition of methods
+
+
 - [x] divide into stories
 - [x] import slides
-- [ ] provide supporting evidence with references (in Chicago full note) 
-- [ ] provide additional images or links to videos/gifs, audio files as needed
-- [ ] provide interesting citations if relevant
+- [x] provide supporting evidence with references (in Chicago full note) 
+- [x] provide additional images or links to videos/gifs, audio files as needed
+- [x] provide interesting citations if relevant
 - [ ] provide audio files
 - [ ] include credits for all content
-- [ ] provide additional argument structure documents
+- [x] provide additional argument structure documents
 
-Admin
 
-- [ ] images for bios?
-- [ ] bios for DDL people
-
-Character
-
-- [ ] add references.
-- [ ] link to events, stories, exhibition.
-- [ ] Living regnans improve pointcloud
-
-Events
-
-- [ ] remove links to methods. 
-- [ ] tidy up text and combine land-clearing and logging
-
-Style
-
-- [ ] match the 'bloom' style: headings, captions, bolding @sjaakjules
-
-Methods
-
-Stories
-
-Exhibition
 
 
 ![](assets/images/2022-01-21-14-11-31.png)

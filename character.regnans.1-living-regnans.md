@@ -2,7 +2,7 @@
 id: YFm4fWc9Oi6q8gSqDdCvJ
 title: 1 Living Regnans
 desc: ''
-updated: 1642760552238
+updated: 1642764689063
 created: 1642566011430
 ---
 The first character in the story is a living 500 year old tree in the Styx valley. This stand of trees have survived disturbances including [[fire|event.fire]] and [[land clearing|event.land-clearing]].
@@ -19,7 +19,7 @@ The first character in the story is a living 500 year old tree in the Styx valle
 
 Source: [The Tree Projects](https://www.thetreeprojects.com/styx-valley)
 
-![Cluster of living giants](assets/images/styx/cluster.png)
+![Cluster of living giants](assets/images/styx/greebox.png)
 
 A cluster of living giant regnans in the Styx valley (green boxes).
 
