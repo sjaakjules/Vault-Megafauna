@@ -2,7 +2,7 @@
 id: w827V0CrJdY9hPeDZfK2P
 title: Stinky Lily
 desc: ''
-updated: 1642742363277
+updated: 1642744074613
 created: 1642587018729
 ---
 
@@ -13,16 +13,17 @@ Initial sketch for Kew gardens. Specimen observed due to Mr Bull who collected r
 
 ![Typhonium brownii distribution](/assets/images/2022-01-19-23-19-45.png)
 Distribution of T. brownii taxa (black dots) and T. eliosurum (grey dots) (Atlas of Living Australia); letters correspond to the source locations of (A) T. brownii FNQ, (B) T. brownii SEQLD, (C) T. sp. aff. brownii (D), T. brownii NSW, (E) T. cf. brownii and (F) T. eliosurum. Images show the reproductive organs of hermaphrodite inflorescences with the spathe partially removed (scale bar = 1 cm).  
-Features shown are the spadix (surrounded by the spathe), consisting (from top to bottom) of the appendix, staminate zone above the spathe constriction, a sterile zone including hair-like extensions and the pistillate zone at the base of the floral chamber.<sup>1</sup>
+Features shown are the spadix (surrounded by the spathe), consisting (from top to bottom) of the appendix, staminate zone above the spathe constriction, a sterile zone including hair-like extensions and the pistillate zone at the base of the floral chamber.<sup>1</sup>[[<sup>1</sup>#^1]]
 
 ## Anthesis, the flowering period
 
 ![Typhonium brownii labels](assets/images/lily/Annotated-3D-image-T-brownii.jpg)
-Annotation of endangered Typhonium sp. aff. brownii by Rebecca Miller.
+Annotation of endangered Typhonium sp. aff. brownii by Rebecca Miller. [[1#^1]]
 
 ## Floral scent
 
-![](/assets/images/2022-01-20-00-53-23.png){max-width: 400px}
+![](/assets/images/2022-01-20-00-53-23.png){max-width: 500px}
+
 Typical scent chromatograms for (A) T. brownii FNQ, (B) T. brownii SEQLD, (C) T. sp. aff. brownii, (D) T. brownii NSW, (E) T. cf. brownii, and (F) T. eliosurum. Eight VOCs with the largest % peak area for each T. brownii taxon and T. eliosurum are labelled in that region/species and across other regions/species if also detected.<sup>1</sup>  
 Numbers indicate the following compounds:  
 (1) α-phellandrene, (2) unknown 1437, (3) α-copaene, (4) pentadecane, (5) unknown 1531, (6) α-gurjunene, (7) *neoisolongifolene, (8) unknown 1591, (9) β-gurjunene, (10) β-caryophyllene, (11) unknown 1607, (12) aromandendrene, (13) *valerena-4,7(11)-diene, (14) α-guaiene, (15) alloaromadendrene, (16) acetophenone, (17) α-humulene, (18) unknown 1689, (19) unknown 1700, (20) caparratriene, (21) methyl geranate, (22) viridiflorene, (23) germacrene D, (24) bicyclogermacrene, (25) δ-cadinene, (26) unknown 1781, (27) dihydro-β-ionone, (28) geranylacetone, (29) junenol, (30) p-cresol, (31) indole, (32) skatole (*identification by library match only).<sup>1</sup>

@@ -2,13 +2,13 @@
 id: 1t8uySqYbRNCK3s9BZIiW
 title: Floral Scent
 desc: ''
-updated: 1642743264750
+updated: 1642743421729
 created: 1642581017001
 ---
 
 During pollination VOCs are released to attract insects.
 
-![](/assets/images/2022-01-19-22-37-33.png)
+![](/assets/images/2022-01-19-22-37-33.png){max-width: 500px}
 
 Typical scent chromatograms for (A) T. brownii FNQ, (B) T. brownii SEQLD, _**(C) T. sp. aff. brownii**_, (D) T. brownii NSW, (E) T. cf. brownii, and (F) T. eliosurum. Eight VOCs with the largest % peak area for each T. brownii taxon and T. eliosurum are labelled in that region/species and across other regions/species if also detected.  
 Numbers indicate the following compounds:  
