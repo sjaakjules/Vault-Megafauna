@@ -2,50 +2,39 @@
 id: vePQa11Sd0gfaaIDWRKj7
 title: Uniqueness
 desc: ''
-updated: 1642638640234
+updated: 1642750970866
 created: 1634718130498
 ---
-
-#content
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nUwOsBijUN2oLr8EED" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nUwOsBijUN2oLr8EED"></a></p>
 
 [Link](https://player.vimeo.com/video/638503539?h=8906b3ca99) to fallen tree on Vimeo
 
-
-
-### 
 >Referring to Earth’s climate emergency, Pearce says: “These trees are at the limit of physics, the greatest expression of nature possible given their environment. They evolved to grow under the conditions we had but don’t have any more. We will never see such trees again.”
 
 From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
 
-### Fire
+## Fire
 
 > Like most other places, Tasmania’s average temperatures have risen 1C in the last century and the heatwaves are more frequent and the air drier, a potent fire mix. “The big trees just copped it. The tiny reserves for big trees that remain after 100 years of clearfell logging didn’t stand a chance,” says Pearce.
 
 From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)`∏
 
-
 ![](/assets/images/bennets/bennets-5.jpg)
 
 Bennets - burned husk with person
-
 
 ![](https://i.guim.co.uk/img/media/ad5cc5007ddcd528a28a8ddf7d43e000d2afe1d2/0_0_2400_1601/master/2400.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=108f5a28acee90d8b63ab7414f844582)
 
 From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
 
-
 ![](/assets/images/2021-10-20-15-31-48.png)
 
 Population Vitals. From [The Tree Projects](https://www.thetreeprojects.com)
 
-
 ![](/assets/images/2021-10-20-15-02-25.png)
 
 Fires 2019 and large trees. From [The Tree Projects](https://www.thetreeprojects.com)
-
-
 
 ## Sites
 ![](/assets/images/2021-10-20-12-48-04.png)
@@ -57,10 +46,9 @@ Location of sites.
 ![](/assets/images/2021-10-20-13-51-04.png)
 Source: [The Tree Projects](https://www.thetreeprojects.com/styx-valley)
 
-
 >Some of the remaining giant trees of the Styx Valley were saved from logging by years of dedicated campaigning by the Wilderness Society & Greenpeace. In 2013, part of the Styx Valley was incorporated into the Tasmanian Wilderness World Heritage Area thanks to the Tasmanian Forestry Agreement, which is sometimes called the Forest Peace Deal. Successive Tasmanian governments have worked hard to dismantle this agreement.
 >
->This site is home to one of the most successful protest actions which saved the Styx Valley from being logged and saw its rivers and ancient forests added to the Tasmanian Wilderness World Heritage Area in 2013. The Global Rescue Station, a collaboration between Greenpeace and the Wilderness Society, was a series of platforms perched in a magnificent swamp gum where activists from around Australia and the planet lived aloft, sending interviews, photographs and video footage to the world. The tree was named Gandalf’s Staff, and it is the star of this walk that makes its way through a wonderland of ancient trees and luscious ferns suggestive of Tolkein’s Middle Earth. 
+>This site is home to one of the most successful protest actions which saved the Styx Valley from being logged and saw its rivers and ancient forests added to the Tasmanian Wilderness World Heritage Area in 2013. The Global Rescue Station, a collaboration between Greenpeace and the Wilderness Society, was a series of platforms perched in a magnificent swamp gum where activists from around Australia and the planet lived aloft, sending interviews, photographs and video footage to the world. The tree was named Gandalf’s Staff, and it is the star of this walk that makes its way through a wonderland of ancient trees and luscious ferns suggestive of Tolkein’s Middle Earth.
 
 Source: [The Tree Projects](https://www.thetreeprojects.com/styx-valley)
 

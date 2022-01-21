@@ -2,11 +2,11 @@
 id: iuRzVbr1ZIgMXssi0AaF1
 title: Land Clearing
 desc: ''
-updated: 1642737264832
+updated: 1642748975655
 created: 1642568935322
 ---
 
->A primary threatening process in temperate eucalypt woodlands is land clearing. Because the broad spatial distribution of temperate woodlands coincides strongly with the nation’s major wheat–sheep belts, much of the original vegetation cover has been cleared (Hobbs and Yates 2000). For example, only ~10% of temperate eucalypt woodlands with a grassy understorey remain uncleared in south-eastern Australia (Prober et al. 2012a). In the wheatbelt of Western Australia, ~90% of the vegetation – much of it temperate eucalypt wood- land – has been cleared (Gibson et al. 2004).<sup>1</sup>
+>A primary threatening process in temperate eucalypt woodlands is land clearing. Because the broad spatial distribution of temperate woodlands coincides strongly with the nation’s major wheat–sheep belts, much of the original vegetation cover has been cleared (Hobbs and Yates 2000). For example, only ~10% of temperate eucalypt woodlands with a grassy understorey remain uncleared in south-eastern Australia (Prober et al. 2012a). In the wheatbelt of Western Australia, ~90% of the vegetation – much of it temperate eucalypt wood- land – has been cleared (Gibson et al. 2004).[^1]
 
 ## Logging
 
@@ -48,5 +48,5 @@ Source: [The Tree Projects](https://www.thetreeprojects.com)
 
 ## References
 
-1. Lindenmayer, David B., Emma; Burns, Nicole Thurgate, and Andrew Lowe, eds. Biodiversity and Environmental Change: Monitoring, Challenges and Direction. Colingwood, AU: CSIRO, 2014.
-2. Lindenmayer, David B., Jeff Wood, Lachlan McBurney, David Blair, and Sam C. Banks. ‘Single Large Versus Several Small: The Sloss Debate in the Context of Bird Responses to a Variable Retention Logging Experiment’. Forest Ecology and Management 339, no. 0 (2015): 1–10. https://doi.org/10/f64h62.
+[^1]: Lindenmayer, David B., Emma; Burns, Nicole Thurgate, and Andrew Lowe, eds. Biodiversity and Environmental Change: Monitoring, Challenges and Direction. Colingwood, AU: CSIRO, 2014.
+[^2]: Lindenmayer, David B., Jeff Wood, Lachlan McBurney, David Blair, and Sam C. Banks. ‘Single Large Versus Several Small: The Sloss Debate in the Context of Bird Responses to a Variable Retention Logging Experiment’. Forest Ecology and Management 339, no. 0 (2015): 1–10. https://doi.org/10/f64h62.

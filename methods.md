@@ -2,12 +2,9 @@
 id: 0yuwfs3ygUNE8yRtUH3aK
 title: Methods
 desc: ''
-updated: 1642698918132
+updated: 1642749116756
 created: 1634270636682
 ---
-
-This is an overview of key project methods.
-
 
 ### Algorithms
 

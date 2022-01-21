@@ -2,7 +2,7 @@
 id: 7Bap4hezZupxM1betPnIY
 title: Yellowbox
 desc: ''
-updated: 1642737016913
+updated: 1642748618166
 created: 1642570142686
 ---
 ## Family: _Myrtaceae_ | Genus:  _Eucalyptus_  
@@ -34,4 +34,4 @@ Whole habitat includes understrory and fauna which is [critically endangered.](h
 3. Le Roux, Darren S., Karen Ikin, David B. Lindenmayer, Adrian D. Manning, and Philip Gibbons. ‘The Value of Scattered Trees for Wildlife: Contrasting Effects of Landscape Context and Tree Size’. Diversity and Distributions 24, no. 1 (2018): 69–81. https://doi.org/10/gcq7f9.
 4. Le Roux, Darren S., Karen Ikin, David B. Lindenmayer, Adrian D. Manning, and Philip Gibbons. ‘The Future of Large Old Trees in Urban Landscapes’. PLOS ONE 9, no. 6 (2014): e99403. https://doi.org/10/f6dg7p.
 5. Rawlings, Kimberlie, David Freudenberger, and David Carr. A Guide to Managing Box Gum Grassy Woodlands. Canberra, AU: Department of the Environment, Water, Heritage and the Arts, 2010.
-6. 
+   

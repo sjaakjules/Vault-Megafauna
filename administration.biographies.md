@@ -2,11 +2,11 @@
 id: UdsK2eXHH7gbdCQMqwVRr
 title: Biographies
 desc: ''
-updated: 1642732182718
+updated: 1642748476136
 created: 1642698151718
 ---
 
-The authorship of this wiki belongs to Deep Design Lab, a creative collective. The active members of the team includes:
+The authorship of this wiki belongs to Deep Design Lab, a creative collective. The active members of the team includes: [^1]
 
 ***Alexander Holland***, at the University of Melbourne, investigates the digital and physical characteristics and design opportunities of past and future environments. His experiments expand the reach of participatory design to include nonhuman as well as human inhabitants.
 

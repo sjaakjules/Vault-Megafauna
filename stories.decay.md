@@ -2,7 +2,7 @@
 id: QCFR711gBLb51zLVrFDi4
 title: Decay
 desc: ''
-updated: 1642570112369
+updated: 1642749139343
 created: 1634853986134
 ---
 
@@ -11,6 +11,7 @@ created: 1634853986134
 The process of aging and decay is called [senescence](https://doi.org/10/f4hjpx). The story presented here describes processes that crucially support a healthy ecosystem. Additionally, they are ubiquitous among all tree species, yet absent within the built environment. This story draws on a range of research to lay the foundation for novel construction typologies which better support the ecosystems humanity live within.
 
 ![](/assets/images/crop2.apng)
+
 ## _Background_
 
 <details>
