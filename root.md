@@ -2,10 +2,10 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-Human Knowledge Management
 desc: ''
-updated: 1642770708297
+updated: 1642773132085
 created: 1634169732979
 ---
-![](assets/images/barrer-structured-light/barrer-structured15.jpg)
+![](/assets/images/2022-01-22-00-51-53.png)
 
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
 
