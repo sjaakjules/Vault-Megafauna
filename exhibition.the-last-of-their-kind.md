@@ -2,11 +2,11 @@
 id: 4nkxzqR8shWh8cxilfBD0
 title: The Last of Their Kind
 desc: ''
-updated: 1642752690687
+updated: 1642752808467
 created: 1642491171998
 ---
 
-**An exhibit for the [SIGGRAPH Digital Artist Community Exhibition](https://earth-our-home.siggraph.org/) (2022): _The Earth is Our Home: Art, Technology, and Critical Action_**
+**An exhibit for the Association for Computing Machinery Special Interest Group for Computer Graphics (ACM SIGGRAPH) Digital Artist Community (DAC) Exhibition (2022): [_The Earth is Our Home: Art, Technology, and Critical Action_](https://earth-our-home.siggraph.org/)**
 
 _by Deep Design Lab_
 
