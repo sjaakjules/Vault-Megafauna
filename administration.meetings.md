@@ -160,7 +160,7 @@ TODO: investigate reveal.js and viscode.reveal for dissemination
 
 ### 4. Justify and Define Stories
 
-Feedback in response to [[project-structure.framework#Stories]] **Stories**
+Feedback in response to [[administration.framework#Stories]] **Stories**
 
 Describe and identify the clear reason to tell stories. Increase/decrease friction between objects so a stakeholder might look at something they usually would not.
 

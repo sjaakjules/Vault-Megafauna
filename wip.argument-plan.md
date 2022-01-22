@@ -138,7 +138,7 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
     
     Needs to be inclusive, participatory, action-based). Bits and pieces. Relationships between them.--->
 
-    1. Technical Operations [[project-structure.framework.markers]].  
+    1. Technical Operations [[administration.framework.markers]].  
     2. Poetic Interpretations 
 
     TODO: speech acts examples. [[themes.patterns]], [[wip.themes.communication]]

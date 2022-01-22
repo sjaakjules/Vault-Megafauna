@@ -2,12 +2,11 @@
 id: GO4x1Zs76JxXoeuZuy2sC
 title: Framework
 desc: ''
-updated: 1642512625345
+updated: 1642828772150
 created: 1634269245118
 ---
 
-
-#content
+##content
 
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
 
@@ -47,7 +46,7 @@ The source environment is self-hosted using the potree and 3Js frameworks.
 
 ### Actions
 
-Actions are metadata linking the research cluster with the source environment. Actions are described using the following [[project-structure.framework.markers]]:
+Actions are metadata linking the research cluster with the source environment. Actions are described using the following [[administration.framework.markers]]:
 
 - point cloud styling (point cloud files: colours, sizes)
 - point cloud interactions (javascript: specify annotations, colours, lines, callouts, buttons, animations)

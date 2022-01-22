@@ -2,9 +2,8 @@
 id: ufP1Wuxrf9YnE73st0hfJ
 title: Characters
 desc: ''
-updated: 1639539967726
+updated: 1642828561434
 created: 1634718415236
-stub: true
 ---
 
 
