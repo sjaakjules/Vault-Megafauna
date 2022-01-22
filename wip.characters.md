@@ -1,6 +1,6 @@
 ---
 id: ufP1Wuxrf9YnE73st0hfJ
-title: Characterss
+title: Characters
 desc: ''
 updated: 1639539967726
 created: 1634718415236

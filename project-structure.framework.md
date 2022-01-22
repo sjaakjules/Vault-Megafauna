@@ -21,7 +21,7 @@ The research cluster is a hierarchically organised,  interconnected set of annot
 
 - [[admin.project-structure]]
 - [[methods]]
-- [[themes]]
+- [[wip.themes]]
 
 The research cluster is hosted on github and uses the dendron framework.
 

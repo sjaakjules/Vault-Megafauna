@@ -141,7 +141,7 @@ TODO: describe several compact but concrete examples @alexrfholland @sjaakjules
     1. Technical Operations [[project-structure.framework.markers]].  
     2. Poetic Interpretations 
 
-    TODO: speech acts examples. [[themes.patterns]], [[themes.communication]]
+    TODO: speech acts examples. [[themes.patterns]], [[wip.themes.communication]]
 
 
 [[dendron.]]
@@ -162,7 +162,7 @@ Stories express [[project-structure.relationships]]. They increase/decrease [[fr
 
 1. Support for new stakeholders, flexibility, empathy, ie. [[stories.uncertainty]].
 
-2. Capturing events otherwise unrecorded, ie. [[stories.decay]].
+2. Capturing events otherwise unrecorded, ie. [[events.decay]].
 
 3. Ability to cope with time and spatial scales, ie. [[stories.strangeness]].
 

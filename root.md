@@ -2,7 +2,7 @@
 id: mtBP3fMOgzuzOBbE33Ik0
 title: More-than-Human Knowledge Management
 desc: ''
-updated: 1642773132085
+updated: 1642828130769
 created: 1634169732979
 ---
 ![](/assets/images/2022-01-22-00-51-53.png)
@@ -17,11 +17,14 @@ This research wiki is divided into two sections the research cluster and dissemi
 - _Exhibitions_ - Stories and exhibits for dissemination.
   - The Last of their Kind - Exhibit for SIGGRAPH 2022
 - _Methods_ - Details the various methods, techniques and technologies used.
+  - Surface imaging
+  - Tomography
 - _Characters_ - Research on more-than-human characters of interest.
   - regnans
   - Stinky lily
   - Yellowbox
 - _Events_ - Noteworthy events involving the characters.
+  - Decay
   - Fire
   - Floral traps
   - Land Clearing

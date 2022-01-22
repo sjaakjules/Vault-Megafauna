@@ -2,7 +2,7 @@
 id: 2RzHVvICBBUL2Ls6vh6kk
 title: applicationBackup
 desc: ''
-updated: 1635815257817
+updated: 1642819079003
 created: 1635815116728
 ---
 
@@ -121,7 +121,7 @@ For more images see [[stories.uncertainty]] and [[stories.uniqueness]]
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nUwOsBijUN2oLr8EED" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nUwOsBijUN2oLr8EED"></a></p>
 
-![[wip.methods.imaging.tls]]
+![[methods.surface-imaging]]
 
 ![[methods.tomography]]
 

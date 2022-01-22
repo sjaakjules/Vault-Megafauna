@@ -2,7 +2,7 @@
 id: 0NF8xsXDfiw3LfwPLvow7
 title: Endlings Application
 desc: ''
-updated: 1635817197137
+updated: 1642819056140
 created: 1635753668273
 ---
 
@@ -127,7 +127,7 @@ For more images see [[stories.uncertainty]] and [[stories.uniqueness]]
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nUwOsBijUN2oLr8EED" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nUwOsBijUN2oLr8EED"></a></p>
 
-![[wip.methods.imaging.tls]]
+![[methods.surface-imaging]]
 
 ![[methods.tomography]]
 

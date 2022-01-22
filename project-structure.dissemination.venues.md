@@ -160,7 +160,7 @@ Submission link: https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra
 
 # Thematic statement (200 – 500 words)
 
-![[project-structure.argument-plan#significance-more-than-human-knowledge-management:#Research-Question]]
+![[wip.argument-plan#significance-more-than-human-knowledge-management:#Research-Question]]
 
 # Artwork proposals (300 – 800 words)
 

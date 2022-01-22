@@ -2,7 +2,7 @@
 id: 2xKJhGs1lWmIA20Hx7ezM
 title: Surface Imaging
 desc: ''
-updated: 1642763713664
+updated: 1642818831344
 created: 1634881492630
 ---
 # Terrestrial Lidar Imaging
@@ -36,11 +36,11 @@ created: 1634881492630
 
 ![](/assets/images/barrer-structured-light/barrer-structured8.jpg)
 
-![](/assets/images/barrer-structured-light/barrer-structured18.jpg){max-width: 400px}
-![](/assets/images/barrer-structured-light/barrer-structured4.jpg){max-width: 400px}
+![](/assets/images/barrer-structured-light/barrer-structured18.jpg){max-height: 235px}
+![](/assets/images/barrer-structured-light/barrer-structured4.jpg){max-height: 235px}
 
-![](/assets/images/barrer-structured-light/barrer-structured21.jpg){max-width: 400px}
-![](/assets/images/barrer-structured-light/barrer-structured2.jpg){max-width: 400px}
+![](/assets/images/barrer-structured-light/barrer-structured21.jpg){max-height: 235px}
+![](/assets/images/barrer-structured-light/barrer-structured2.jpg){max-height: 235px}
 
-![](/assets/images/barrer-structured-light/barrer-structured17.jpg){max-width: 400px}
-![](/assets/images/barrer-structured-light/barrer-structured1.jpg){max-width: 400px}
+![](/assets/images/barrer-structured-light/barrer-structured17.jpg){max-height: 235px}
+![](/assets/images/barrer-structured-light/barrer-structured1.jpg){max-height: 235px}

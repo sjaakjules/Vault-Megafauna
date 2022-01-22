@@ -2,7 +2,7 @@
 id: a6dJ2iEg5FkIWyIyWZejD
 title: Tomography
 desc: ''
-updated: 1642763103700
+updated: 1642816799321
 created: 1634711490081
 ---
 
@@ -43,30 +43,22 @@ rotten and more eroded than S1
 + XS1: Micro texture of inner surface of hollow, taken from S1
 
 
-![](/assets/images/synchro/synchrotron-2.jpg)
+![](/assets/images/synchro/synchrotron-2.jpg){max-width: 800px}
 
-![](/assets/images/synchro/synchrotron-3.jpg)
+![](/assets/images/synchro/synchrotron-3.jpg){max-width: 800px}
 
-![](/assets/images/synchro/synchrotron-4.jpg)
+![](/assets/images/synchro/synchrotron-4.jpg){max-width: 800px}
 
-![](/assets/images/synchro/synchrotron-5.jpg)
+![](/assets/images/synchro/synchrotron-5.jpg){max-width: 800px}
 
-![](/assets/images/synchro/synchrotron-7.jpg)
+![](/assets/images/synchro/synchrotron-7.jpg){max-width: 800px}
 
-![](/assets/images/synchro/synchrotron-8.jpg)
+![](/assets/images/synchro/synchrotron-8.jpg){max-width: 800px}
 
-<iframe src="https://player.vimeo.com/video/642218623?h=19eacc6767&autoplay=1&loop=1&color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642218623?h=19eacc6767&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="400" height="225" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642196354?h=a10ce00af9&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="400" height="225" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642216465?h=5a349e9b47&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="400" height="225" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642194141?h=de9a15213a&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="400" height="225" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/643340693?h=fc47859b96&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="800" height="358" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642219322?h=5832230863&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/642196354?h=a10ce00af9&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/642216465?h=5a349e9b47&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/642194141?h=de9a15213a&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://player.vimeo.com/video/642196354?h=a10ce00af9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://player.vimeo.com/video/642196354?h=a10ce00af9"></a></p>
-
-<iframe src="https://player.vimeo.com/video/643340693?h=fc47859b96&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="286" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/642219322?h=5832230863&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/M956BmAVGuDTiqE1OW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/M956BmAVGuDTiqE1OW"></a></p>

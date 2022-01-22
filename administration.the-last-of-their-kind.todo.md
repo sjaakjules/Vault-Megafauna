@@ -2,7 +2,7 @@
 id: 0Y3gyEYQVDhynhXWQEVmo
 title: Todo
 desc: ''
-updated: 1642766260233
+updated: 1642826699819
 created: 1642491183255
 published: false
 ---
@@ -12,8 +12,8 @@ published: false
 - [ ] export better potree windows
 - [ ] fix links to research for exhibition
 - [x] match the 'bloom' style: headings, captions, bolding @sjaakjules
-- [ ] methods landing has content
-- [ ] methods videos sizes too large
+- [x] methods landing has content
+- [x] methods videos sizes too large
 - [ ] stories are repetition of info in events.
 - [ ] Decay can be moved to events.
 - [ ] images for bios?

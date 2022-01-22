@@ -15,7 +15,7 @@ created: 1634881306877
   - Other verification (workshop?)
 
 2. Review Argument Plan
-[[project-structure.argument-plan]]
+[[wip.argument-plan]]
   - better link stories with knowledge management
 
 3. Discuss example stories
