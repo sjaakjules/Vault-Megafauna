@@ -2,7 +2,7 @@
 id: 4nkxzqR8shWh8cxilfBD0
 title: The Last of Their Kind
 desc: ''
-updated: 1642769824876
+updated: 1642822023912
 created: 1642491171998
 ---
 
@@ -17,6 +17,9 @@ _by Deep Design Lab_
 This exhibit gives detail to intertwined and mesmerizingly rich stories of interspecies communities. To provide a brighter contrast with familiar human-centred narratives we focus on plant lives. Plants challenge human preconceptions about individualities, and relationships.
 
 Humans often study such worlds for financial gain. Instead, we seek to tell stories of self-directed lives of plants and the ensuing ethical questions.
+
+<iframe src="https://player.vimeo.com/video/668734194?h=247b2640f0&color=A5CE46" width="620" height="364" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/668734194">The Last of Their Kind: Video</a> from <a href="https://vimeo.com/acmsiggraph">ACM SIGGRAPH</a>.</p>
 
 [_The Last of Their Kind_](https://earth-our-home.siggraph.org/the-last-of-their-kind/) focuses on individuals, species and communities facing extinction. Some call these beings endlings. How should humans study and preserve stories of beings that go away, often forever?
 
