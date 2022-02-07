@@ -2,7 +2,7 @@
 id: 4nkxzqR8shWh8cxilfBD0
 title: The Last of Their Kind
 desc: ''
-updated: 1642822023912
+updated: 1644202950669
 created: 1642491171998
 ---
 
@@ -12,20 +12,20 @@ _by Deep Design Lab_
 
 ![](/assets/images/2022-01-21-23-55-00.png)
 
-[_The Last of Their Kind_](https://earth-our-home.siggraph.org/the-last-of-their-kind/) is an outcome of a research program that seeks to open possibilities for participatory designing that involves nonhuman lifeforms.
+[_The Last of Their Kind_](https://earth-our-home.siggraph.org/the-last-of-their-kind/) is an outcome of a research program that seeks to open possibilities for participatory designing that involves nonhuman lifeforms. 
 
-This exhibit gives detail to intertwined and mesmerizingly rich stories of interspecies communities. To provide a brighter contrast with familiar human-centred narratives we focus on plant lives. Plants challenge human preconceptions about individualities, and relationships.
+This exhibit gives detail to intertwined and mesmerizingly rich stories of interspecies communities. To provide a brighter contrast with familiar human-centred narratives we focus on plant lives.
 
-Humans often study such worlds for financial gain. Instead, we seek to tell stories of self-directed lives of plants and the ensuing ethical questions.
+Humans often study plants as resources. Instead, we seek to tell stories about the self-directed lives of plants and relevant ethical questions. 
 
 <iframe src="https://player.vimeo.com/video/668734194?h=247b2640f0&color=A5CE46" width="620" height="364" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/668734194">The Last of Their Kind: Video</a> from <a href="https://vimeo.com/acmsiggraph">ACM SIGGRAPH</a>.</p>
 
-[_The Last of Their Kind_](https://earth-our-home.siggraph.org/the-last-of-their-kind/) focuses on individuals, species and communities facing extinction. Some call these beings endlings. How should humans study and preserve stories of beings that go away, often forever?
+[_The Last of Their Kind_](https://earth-our-home.siggraph.org/the-last-of-their-kind/) focuses on individuals, species and communities facing extinction. Some call these beings ‘endlings’. How should humans study and preserve stories of beings that go away, often forever?
 
-Nobody has a complete answer, but we can try to bear witness, record as a lesson, sometimes help. We focus on three different characters. One follows a group of elders. Another looks at the last representatives of a species. And the last considers a formerly dominant but disappearing community.
+Nobody has a complete answer, but we can try to bear witness, record as a lesson, sometimes help. We focus on three different characters. One story follows a group of elders. Another looks at the last representatives of a species. And the last considers a formerly dominant but disappearing community.
 
-To engage with these beings, we use lasers, magnetic fields, and particle accelerators to generate detailed data representations of plant worlds. Applying analytical tools and artificial intelligence to this data, we seek to capture the richness and nuance of behaviours, capabilities and preferences that characterise nonhuman lives. Interspecies stories are hard to narrate. Their characters have evolutionary backgrounds, life histories, capabilities and scales that are not intuitive to humans. Our imaging technologies span from kilometres to microns to expose histories and futures from new perspectives: high above a rainforest, deep within a tree trunk, or only visible in the infrared.
+Engaging with these beings, we use lasers, magnetic fields, and particle accelerators to generate detailed data representations of plant worlds. Applying analytical tools and artificial intelligence to this data, we seek to capture the richness and nuance of behaviours, capabilities and preferences that characterise nonhuman lives. Interspecies stories are hard to narrate. Their characters have evolutionary backgrounds, life histories, capabilities and scales that are not intuitive to humans. Our imaging technologies span from kilometres to microns and expose histories and futures from new perspectives: high above a rainforest, deep within a tree trunk, or only visible in the infrared.
 
 ![](/assets/images/2022-01-21-18-24-06.png){width: 500px}
 
