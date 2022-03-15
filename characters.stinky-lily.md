@@ -6,6 +6,7 @@ updated: 1642749097711
 created: 1642587018729
 ---
 
+
 ## Family: _Araceae_ | Genus:  _Typhonium_ | Species: _brownii_
 
 ![Typhonium brownii](assets/images/lily/Typhonium_brownii_CBM.png){max-width: 400px}  

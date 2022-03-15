@@ -6,6 +6,7 @@ updated: 1642760903547
 created: 1642587036394
 ---
 
+
 Typhonium brownii and Typhonium eliosurum are similar plants which mimic dung to attract insects. The difference between the two species is T. brownii predominantly attracts dung beetles while the latter attracts flies.
 
 Beetles  

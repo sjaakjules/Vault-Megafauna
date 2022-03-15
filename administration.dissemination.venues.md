@@ -7,6 +7,7 @@ created: 1635376050884
 ---
 
 
+
 ## ISEA
 
 [Submission Link](https://isea2022.isea-international.org/submit-your-proposal/)

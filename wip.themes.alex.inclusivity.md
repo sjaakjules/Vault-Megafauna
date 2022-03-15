@@ -6,6 +6,7 @@ updated: 1634782750891
 created: 1634272795342
 ---
 
+
 ## Non-anthropocentric perspectives
 
 - perspective sharing by using multiple scales, formats, data sets

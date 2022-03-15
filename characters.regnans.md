@@ -5,6 +5,7 @@ desc: ''
 updated: 1642760511067
 created: 1635307855059
 ---
+
 ## Family: _Myrtaceae_ | Genus:  _Eucalyptus_ | Species: _regnans_
 
 ![](/assets/images/2021-10-20-15-40-56.png)

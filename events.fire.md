@@ -6,6 +6,7 @@ updated: 1642567646312
 created: 1642567470390
 ---
 
+
 >Referring to Earth’s climate emergency, Pearce says: “These trees are at the limit of physics, the greatest expression of nature possible given their environment. They evolved to grow under the conditions we had but don’t have any more. We will never see such trees again.”
 
 > Like most other places, Tasmania’s average temperatures have risen 1C in the last century and the heatwaves are more frequent and the air drier, a potent fire mix. “The big trees just copped it. The tiny reserves for big trees that remain after 100 years of clearfell logging didn’t stand a chance,” says Pearce.

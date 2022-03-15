@@ -6,6 +6,7 @@ updated: 1642761487612
 created: 1642587244870
 ---
 
+
 ### Brood-site Deception
 
 Brood-site deception of insects that lay eggs in dung.[^1]
