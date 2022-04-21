@@ -8,6 +8,7 @@ created: 1634269248702
 
 
 
+
 #content
 
 - Activist: not hypothesis driven but experimental research, seeking to change entrenched narratives, support future work by preserving information about threatened mega-flora. Open-source, extendable, agile. 

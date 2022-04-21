@@ -7,6 +7,7 @@ created: 1642491638223
 ---
 
 
+
 **Old mountain ash tree (Eucalyptus regnans), 200 left, with twelve of the largest twenty burnt in 2019**
 
 This story is about a disappearing stage of life, and death.

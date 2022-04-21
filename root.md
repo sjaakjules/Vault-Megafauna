@@ -6,6 +6,7 @@ updated: 1642828130769
 created: 1634169732979
 ---
 
+
 ![](/assets/images/2022-01-22-00-51-53.png)
 
 What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.

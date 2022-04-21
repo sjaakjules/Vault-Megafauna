@@ -7,6 +7,7 @@ created: 1634875782056
 ---
 
 
+
 ![[wip.themes.alex.participation.communicative-identity]]
 ![[wip.themes.alex.participation.self-nonself]]
 

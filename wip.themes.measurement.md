@@ -7,6 +7,7 @@ created: 1634874183757
 ---
 
 
+
 >Morphological traits of organisms, more than most other parameters, reflect the interaction between an individual's genetic background and the ecological factors it is confronted with. Thus, morphometric parameters are key elements in many ecological and evolutionary studies (e.g. Adams, Rohlf, & Slice, 2004; Bookstein, 1996; Chang & Alfaro, 2016). In traditional morphometrics, basic parameters such as distances, areas, widths, angles or derived ratios are analysed (e.g. Marcus, 1990). More sophisticated 2D geometric approaches quantify spatial patterns using landmarks, curves or outline analyses (e.g. Adams et al., 2004).
 >
 >In recent years, there has been considerable progress in 3D shape documentation—e.g. high-resolution computerized tomography, 3D scanning, or photogrammetry—and several 2D morphometric methods have been adapted accordingly (Márquez & Averbuj, 2016; Mitteroecker, Gunz, & Bookstein, 2005; Wiley et al., 2005). However, most traditional morphometric methods are not applicable to highly complex and irregularly formed organisms that lack landmarks or where the shape is highly variable (Martin-Garin, Lathuilière, Verrecchia, & Geister, 2007).

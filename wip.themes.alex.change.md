@@ -7,6 +7,7 @@ created: 1634267816291
 ---
 
 
+
 ## Activism 
 
 - expliclity experimental research

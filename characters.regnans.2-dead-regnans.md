@@ -6,6 +6,7 @@ updated: 1642760577396
 created: 1642566029072
 ---
 
+
 The second character of the story is a standing but dead _Eucalyptus Regnans_. This tree died in the 2019 Tasmanian bushfires. See the [[fire|events.fire]] event for more information.
 
 ![](assets/images/bennets/Bennets.jpg)
