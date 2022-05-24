@@ -2,12 +2,12 @@
 id: 886yny3a798uqfcb5pgeydt
 title: Surface Imaging
 desc: ''
-updated: 1642818831344
+updated: 1653396970407
 created: 1634881492630
 ---
 
-
 # Terrestrial Lidar Imaging
+
 ![](/assets/images/arve/arve-1.jpg)
 
 ![](/assets/images/tasmania-tree-compress-6.jpg)
