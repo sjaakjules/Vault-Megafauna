@@ -1,8 +1,8 @@
 ---
-id: a6dJ2iEg5FkIWyIyWZejD
+id: g7uhu97c55di49f6uqcmynf
 title: Tomography
 desc: ''
-updated: 1642816799321
+updated: 1653396955367
 created: 1634711490081
 ---
 
@@ -15,6 +15,7 @@ This proposal aims to respond to environmental challenges which displace both hu
 Given the unknowns, the approach is not through goal-driven data interpretation, but instead analogous to speculative or exploratory design.
 
 ## Objectives
+
 Creating a generalizable description of bark pore space habitats
 1.	Identify different textures (manually or via AI)
 2.	Goals: separate different textures

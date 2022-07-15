@@ -1,10 +1,12 @@
 ---
-id: js1Npy9H5MoBm92VVsoFL
+id: muakfsb5dvaivw5vok6x36g
 title: 3 Collapsed Regnans
 desc: ''
 updated: 1642760607387
 created: 1642566037134
 ---
+
+
 Our third character is a collapsed _Eucalyptus Regnans_ tree, known as the Arve Giant. This tree was 500 years old and 87m tall when it burnt from the inside out in the 2019 Tasmanian bushfires. See the [[fire|events.fire]] event for more information.
 
 ## Arve large tree

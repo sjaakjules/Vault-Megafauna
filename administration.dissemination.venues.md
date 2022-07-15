@@ -1,10 +1,12 @@
 ---
-id: c7XNKUv2IVJZIwWTsvLJV
+id: xf8d9q5lehkv8vs5osij3f1
 title: Venues
 desc: ''
-updated: 1635814642982
+updated: 1644220876195
 created: 1635376050884
 ---
+
+
 
 
 ## ISEA
@@ -19,11 +21,9 @@ We invite artwork submissions responding to the themes of the symposium includin
 
 **Main theme: Possibilities** 
 
-
 >Possibles not only open up an unfinished world of futures before us, but also presents and pasts behind us.
 >
 >The Possible is openness and movement, a horizon of change that unfolds and organizes the world.
-
 
 >The Possible started with the polis, the city, and is political by definition.
 >
@@ -50,10 +50,10 @@ We invite artwork submissions responding to the themes of the symposium includin
 - How would we inhabit other worlds that we long to discover and experience?
 - And how about the universe, the outer space and the planets we dream about?
 
-
 ## SIGRAPH NORTH AMERICA 2022 CONFERENCE
 
 Conference: 7-11 August Vancouver 2022
+
 ### Art Paper
 
 *Short and Long Papers Due Fri 21st Jan*
@@ -90,12 +90,15 @@ Submissions for this exhibitions should be made in EasyChair. You will need to c
 You will be asked for the following:
 
 Author names and contact information
+
 - A title and abstract suitable for the website (200 words)
 - Keywords
 - Project description 
 - Statement of relevance to the theme
 - Primary project URL, Video URL, Download Link or other means of accessing the project.
+
 We will want to put a copy of the project on our website if possible, or if it is documented on video we would prefer to have a copy to archive so we can prevent broken links later
+
 - Creation year
 - Prior showings and concurrent submissions
 - Additional Information 
@@ -114,7 +117,6 @@ Submissions will be reviewed by a jury of ACM SIGGRAPH Digital Arts Community me
 Note: this exhibition will be held entirely online, and is sponsored by the year-round Digital Arts Community of ACM SIGGRAPH. It is not the same as the Art Gallery at the annual conferences associated with SIGGRAPH North America or SIGGRAPH Asia. Visit the websites for those annual conferences to apply to their exhibitions.
 
 https://dac.siggraph.org/the-earth-our-home/
-
 
 ### SIGRAPH SPARKS
 
@@ -174,7 +176,7 @@ Submission link: https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra
 
 # CV / Portfolio
 
-* Please download the application form and submit it with your CV/Portforlio (PDF format)
+* Please download the application form and submit it with your CV/Portfolio (PDF format)
 
 Application documents should be delivered to the ISEA2022 Organizer by 11:59pm (CEST) October 30 2021.
 

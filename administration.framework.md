@@ -1,10 +1,12 @@
 ---
-id: GO4x1Zs76JxXoeuZuy2sC
+id: m11n8x7ghx2qcuvzaj28l4q
 title: Framework
 desc: ''
 updated: 1642828772150
 created: 1634269245118
 ---
+
+
 
 ##content
 

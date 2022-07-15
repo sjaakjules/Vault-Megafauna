@@ -1,10 +1,12 @@
 ---
-id: BqB5iRxQtySdBeZeLOggv
+id: s6jc46l6vvvetx9hoj0zfup
 title: Fire
 desc: ''
 updated: 1642567646312
 created: 1642567470390
 ---
+
+
 
 >Referring to Earth’s climate emergency, Pearce says: “These trees are at the limit of physics, the greatest expression of nature possible given their environment. They evolved to grow under the conditions we had but don’t have any more. We will never see such trees again.”
 

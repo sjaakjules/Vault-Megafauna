@@ -1,10 +1,12 @@
 ---
-id: 4nkxzqR8shWh8cxilfBD0
+id: zjbs612zh66fw2li6sx1fxp
 title: The Last of Their Kind
 desc: ''
 updated: 1644202950669
 created: 1642491171998
 ---
+
+
 
 **An exhibit for the Association for Computing Machinery Special Interest Group for Computer Graphics (ACM SIGGRAPH) Digital Artist Community (DAC) Exhibition (2022): [_The Earth is Our Home: Art, Technology, and Critical Action_](https://earth-our-home.siggraph.org/)**
 

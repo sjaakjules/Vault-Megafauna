@@ -1,10 +1,12 @@
 ---
-id: 7Bap4hezZupxM1betPnIY
+id: ldcdzcpoqgti7gswqkt6lo2
 title: Yellowbox
 desc: ''
 updated: 1642760933790
 created: 1642570142686
 ---
+
+
 ## Family: _Myrtaceae_ | Genus:  _Eucalyptus_  
 Species: bridgesiana | Name: Apple Box  
 Species: polyanthemos | Name: Red Box  

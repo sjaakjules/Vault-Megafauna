@@ -1,10 +1,12 @@
 ---
-id: w827V0CrJdY9hPeDZfK2P
+id: hertaifuddiibnjx7k91wnm
 title: Stinky Lily
 desc: ''
 updated: 1642749097711
 created: 1642587018729
 ---
+
+
 
 ## Family: _Araceae_ | Genus:  _Typhonium_ | Species: _brownii_
 

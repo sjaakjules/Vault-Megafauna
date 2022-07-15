@@ -1,10 +1,12 @@
 ---
-id: 43LnCy6mTd878lpmvt3iN
+id: wnj75m8odm2t6sd3f2oiskx
 title: The Last Elders
 desc: ''
 updated: 1644203506532
 created: 1642491638223
 ---
+
+
 
 **Old mountain ash tree (Eucalyptus regnans), 200 left, with twelve of the largest twenty burnt in 2019**
 

@@ -1,10 +1,12 @@
 ---
-id: 5hick0v21lo0RpS3HZo5y
+id: hg6g9t3pt1qh0vcrtmv7hek
 title: Argument Plan
 desc: ''
 updated: 1642548025032
 created: 1635199784064
 ---
+
+
 ## Objective
 
 TODO: Write
