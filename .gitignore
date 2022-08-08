@@ -3,3 +3,4 @@
 .dendron.*
 .dendron.cache.json
 .next
+.DS_Store*
