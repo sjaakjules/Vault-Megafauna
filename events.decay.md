@@ -1,10 +1,11 @@
 ---
 id: j7wawl5wd67t0pi4moj3fy7
 title: Decay
-desc: ""
+desc: ''
 updated: 1642828109006
 created: 1634853986134
 ---
+
 
 
 

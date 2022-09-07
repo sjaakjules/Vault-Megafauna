@@ -5,10 +5,6 @@ desc: ''
 updated: 1644220876195
 created: 1635376050884
 ---
-
-
-
-
 ## ISEA
 
 [Submission Link](https://isea2022.isea-international.org/submit-your-proposal/)
@@ -21,27 +17,27 @@ We invite artwork submissions responding to the themes of the symposium includin
 
 **Main theme: Possibilities** 
 
->Possibles not only open up an unfinished world of futures before us, but also presents and pasts behind us.
+> Possibles not only open up an unfinished world of futures before us, but also presents and pasts behind us.
 >
->The Possible is openness and movement, a horizon of change that unfolds and organizes the world.
+> The Possible is openness and movement, a horizon of change that unfolds and organizes the world.
 
->The Possible started with the polis, the city, and is political by definition.
+> The Possible started with the polis, the city, and is political by definition.
 >
->The Possible has nothing to do with the unreal, the impossible, or the fictitious, but rather with the unfinished real in front of us.
+> The Possible has nothing to do with the unreal, the impossible, or the fictitious, but rather with the unfinished real in front of us.
 >
->The Possible shapes our reality, and that is precisely why it is a political problem in itself. From “everything is possible” to “be realistic and ask for the impossible”, from an “infinitude of possible worlds” to “this is not possible and cannot be done”.
+> The Possible shapes our reality, and that is precisely why it is a political problem in itself. From “everything is possible” to “be realistic and ask for the impossible”, from an “infinitude of possible worlds” to “this is not possible and cannot be done”.
 >
->Sometimes we are trapped in a world of pre-designed Possibles – “this is it” –  where it seems that nothing could have been left out, there are no alternatives. Sometimes it is living an illusion of freedom in an impossible world where the critical just disappears. How to open towards contingency, not only to the becoming but also its uncertainty?
+> Sometimes we are trapped in a world of pre-designed Possibles – “this is it” –  where it seems that nothing could have been left out, there are no alternatives. Sometimes it is living an illusion of freedom in an impossible world where the critical just disappears. How to open towards contingency, not only to the becoming but also its uncertainty?
 >
->How to draw new Possibles to come, and not just confirming those that are there waiting to be confirmed, experienced and thought, as Possibles that can be brought to existence in our worldview? How to move from the impossible, the fable or the utopia to directly bite into our reality?
+> How to draw new Possibles to come, and not just confirming those that are there waiting to be confirmed, experienced and thought, as Possibles that can be brought to existence in our worldview? How to move from the impossible, the fable or the utopia to directly bite into our reality?
 >
->The Possible is inscribed within the arts, design, sciences and technologies that surround us now and those yet to come.
+> The Possible is inscribed within the arts, design, sciences and technologies that surround us now and those yet to come.
 >
->We see these Possibles behind climate change and global warming, behind robotics and biotechnologies, inside algorithms, artificial intelligence and data science, in between quantic worlds trying to get a grasp of what matter is, up there above our heads in outer space and the multiverse.
+> We see these Possibles behind climate change and global warming, behind robotics and biotechnologies, inside algorithms, artificial intelligence and data science, in between quantic worlds trying to get a grasp of what matter is, up there above our heads in outer space and the multiverse.
 
 **Subtheme NATURES AND WORLDS** 
 
->In a context where all Possibles seem to be closed towards a dystopian future where we are heading , it is crucial to open these Possibles that are waiting to be unfolded, thought and experienced as the Other to come.
+> In a context where all Possibles seem to be closed towards a dystopian future where we are heading , it is crucial to open these Possibles that are waiting to be unfolded, thought and experienced as the Other to come.
 
 - How do we understand and experience life nowadays?
 - How do we relate with nature?
@@ -56,34 +52,35 @@ Conference: 7-11 August Vancouver 2022
 
 ### Art Paper
 
-*Short and Long Papers Due Fri 21st Jan*
+_Short and Long Papers Due Fri 21st Jan_
 
->The SIGGRAPH Art Papers program brings together a multidisciplinary community of artists, researchers, and scholars working at the nexus of technology and the arts. It emphasizes imagination, speculation, and critique as means to open new aesthetic and interpretive paths that depart from and/or challenge commercial imperatives.
+> The SIGGRAPH Art Papers program brings together a multidisciplinary community of artists, researchers, and scholars working at the nexus of technology and the arts. It emphasizes imagination, speculation, and critique as means to open new aesthetic and interpretive paths that depart from and/or challenge commercial imperatives.
 
-https://s2022.siggraph.org/program/art-papers/
+<https://s2022.siggraph.org/program/art-papers/>
 
 ### Art Gallery
-*Deadline: 1 Feb 2022*
+
+_Deadline: 1 Feb 2022_
 
 > Art Gallery is a juried exhibition that showcases the latest innovations in digital art and welcomes artists and enthusiasts alike to a space for creative contemplation. Check back in November for submissions information.
 
-https://s2022.siggraph.org/program/art-gallery/
+<https://s2022.siggraph.org/program/art-gallery/>
 
 ### Experience Hall (not sure if we can submit to this?)
 
->Stimulate your senses with cutting-edge, in-person experiences and installations from the Art Gallery, Emerging Technologies, Labs, the Immersive Pavilion, and the VR Theater. If your senses need a jumpstart, this is the place for you.
+> Stimulate your senses with cutting-edge, in-person experiences and installations from the Art Gallery, Emerging Technologies, Labs, the Immersive Pavilion, and the VR Theater. If your senses need a jumpstart, this is the place for you.
 
-https://s2022.siggraph.org/programs-events/?ia=arts-design
+<https://s2022.siggraph.org/programs-events/?ia=arts-design>
 
 ## SIGRAPH - OTHER
 
 ### The Earth, Our Home: Art, Technology, and Critical Action
 
-*Due November 15 2021*
+_Due November 15 2021_
 
->The capacity of humanity to make choices and impose those choices on the environment without critical consideration of the consequences has resulted in an imbalance in power, where the destiny of the earth, our home, is controlled by humanity.  Human agency and continued existence relies on a balanced alliance with our natural world where the relationship shifts from master (human) / slave (environment) to a cooperative agreement to co-exist in harmony.  The earth is home to a wide variety of species and provides the necessities to support life in its various forms. Our ecosystem is a complex network of biological communities and abiotic factors that, when left on its own, promotes a natural evolution of life and equilibrium. When the system is impacted by short-sighted, rapacious human intervention, residents of this planet often experience displacement, extinction, and suffering. It is here that we find ourselves.
+> The capacity of humanity to make choices and impose those choices on the environment without critical consideration of the consequences has resulted in an imbalance in power, where the destiny of the earth, our home, is controlled by humanity.  Human agency and continued existence relies on a balanced alliance with our natural world where the relationship shifts from master (human) / slave (environment) to a cooperative agreement to co-exist in harmony.  The earth is home to a wide variety of species and provides the necessities to support life in its various forms. Our ecosystem is a complex network of biological communities and abiotic factors that, when left on its own, promotes a natural evolution of life and equilibrium. When the system is impacted by short-sighted, rapacious human intervention, residents of this planet often experience displacement, extinction, and suffering. It is here that we find ourselves.
 >
->Artists, scientists, technologists, and social practitioners have the power to critically respond to the imbalance by engaging in practices and producing artworks that seek to understand and work in harmony with the natural world to reimagine a better future. This exhibition seeks creative works that investigate, question, and propose critical action to reestablish a sustainable and balanced relationship with the earth, our home.
+> Artists, scientists, technologists, and social practitioners have the power to critically respond to the imbalance by engaging in practices and producing artworks that seek to understand and work in harmony with the natural world to reimagine a better future. This exhibition seeks creative works that investigate, question, and propose critical action to reestablish a sustainable and balanced relationship with the earth, our home.
 
 Submissions for this exhibitions should be made in EasyChair. You will need to create an account in the system.
 
@@ -116,15 +113,15 @@ Submissions will be reviewed by a jury of ACM SIGGRAPH Digital Arts Community me
 
 Note: this exhibition will be held entirely online, and is sponsored by the year-round Digital Arts Community of ACM SIGGRAPH. It is not the same as the Art Gallery at the annual conferences associated with SIGGRAPH North America or SIGGRAPH Asia. Visit the websites for those annual conferences to apply to their exhibitions.
 
-https://dac.siggraph.org/the-earth-our-home/
+<https://dac.siggraph.org/the-earth-our-home/>
 
 ### SIGRAPH SPARKS
 
-https://dac.siggraph.org/sparks/
+<https://dac.siggraph.org/sparks/>
 
->The SIGGRAPH Digital Arts Committee (DAC) is pleased to announce SPARKS: Short Presentations of Artworks & Research for the Kindred Spirit. The SPARKS presentations and discussions are held monthly and consist of up to 10 3-5 minute lightning talks followed by an inclusive discussion based on the topic of the month.  The discussions are moderated by DAC committee members along with invited guest facilitators.  
+> The SIGGRAPH Digital Arts Committee (DAC) is pleased to announce SPARKS: Short Presentations of Artworks & Research for the Kindred Spirit. The SPARKS presentations and discussions are held monthly and consist of up to 10 3-5 minute lightning talks followed by an inclusive discussion based on the topic of the month.  The discussions are moderated by DAC committee members along with invited guest facilitators.  
 
-Submit a Proposal for a Presentation – https://bit.ly/3noNQjS
+Submit a Proposal for a Presentation – <https://bit.ly/3noNQjS>
 
 Submissions for future sessions are OPEN. Submissions for the monthly SPARKS presentations will be reviewed by the DAC committee along with the guest moderator. Only 10 max will be selected based on their relevance to the topic. 
 
@@ -136,23 +133,21 @@ Presentations should consist of approximately 10 slides and should be no longer 
 
 **SUBMIT YOUR PRESENTATION PROPOSAL BY NOVEMBER 12, 2021**
 
->Humans have been making pictures since the earliest cave drawings dating to at least 45,000 years ago, and the content and methods of making them have progressed since.  With each new technological advance (this includes analog), image makers add another tool to their kits that open up new ways to practice, to express ideas and to tell stories that range from literal to abstract.  Digital technologies are the latest and perhaps one of the biggest additions to the workflow, and with it, we have expanded our continuum of image making possibilities.  Indeed, digital methods have changed imagery more than any other tool in history.
+> Humans have been making pictures since the earliest cave drawings dating to at least 45,000 years ago, and the content and methods of making them have progressed since.  With each new technological advance (this includes analog), image makers add another tool to their kits that open up new ways to practice, to express ideas and to tell stories that range from literal to abstract.  Digital technologies are the latest and perhaps one of the biggest additions to the workflow, and with it, we have expanded our continuum of image making possibilities.  Indeed, digital methods have changed imagery more than any other tool in history.
 >
->In 2003, Christiane Paul wrote that, “The use of digital technologies in almost every arena of daily life has vastly increased during the past decade, leading to speculations that all forms of artistic media will eventually be absorbed into the digital medium, either through digitization or through the use of computers in a specific aspect of processing or production.”  Not only has this come true, I would argue that digital processes have changed the still image in essential ways that force artists and viewers to question truth and reality. 
+> In 2003, Christiane Paul wrote that, “The use of digital technologies in almost every arena of daily life has vastly increased during the past decade, leading to speculations that all forms of artistic media will eventually be absorbed into the digital medium, either through digitization or through the use of computers in a specific aspect of processing or production.”  Not only has this come true, I would argue that digital processes have changed the still image in essential ways that force artists and viewers to question truth and reality. 
 >
->This 10th SPARKS session welcomes the presentation of artworks and projects that represent the continuum of image making and that reveal the essential ways that digital tools have moved it forward.  Thus, we are looking for artists, theorists, researchers and practitioners of any image making practice to present and talk about works that range from fully digital, to a hybrid of digital and traditional practice that illustrate the growth of image making since the onset of widely available digital tools.  The work or aesthetics may be about the medium or they might simply tell a story or illustrate concepts.  
+> This 10th SPARKS session welcomes the presentation of artworks and projects that represent the continuum of image making and that reveal the essential ways that digital tools have moved it forward.  Thus, we are looking for artists, theorists, researchers and practitioners of any image making practice to present and talk about works that range from fully digital, to a hybrid of digital and traditional practice that illustrate the growth of image making since the onset of widely available digital tools.  The work or aesthetics may be about the medium or they might simply tell a story or illustrate concepts.  
 >
->We are interested in a range of approaches including those from the past and those from the bleeding edge, using out of the box or homespun tools.  Still images of any kind are welcome as our ultimate goal is to not only establish how digital methods are essential to image making, but also to highlight and perhaps remind us that the single image is still powerful and still important now, more than ever.
+> We are interested in a range of approaches including those from the past and those from the bleeding edge, using out of the box or homespun tools.  Still images of any kind are welcome as our ultimate goal is to not only establish how digital methods are essential to image making, but also to highlight and perhaps remind us that the single image is still powerful and still important now, more than ever.
 
-https://dac.siggraph.org/within-the-frame/
+<https://dac.siggraph.org/within-the-frame/>
 
-Submission link: https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra-isyCoSoAt0Zk/viewform?edit_requested=true
-
+Submission link: <https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra-isyCoSoAt0Zk/viewform?edit_requested=true>
 
 ### ISEA
 
-
-# Artist Bio (within 300 words)
+## Artist Bio (within 300 words)
 
 ## Alex
 
@@ -176,7 +171,7 @@ Submission link: https://docs.google.com/forms/d/14sSAs14vEDXUlNlnrZCITeWK9-T1Ra
 
 # CV / Portfolio
 
-* Please download the application form and submit it with your CV/Portfolio (PDF format)
+- Please download the application form and submit it with your CV/Portfolio (PDF format)
 
 Application documents should be delivered to the ISEA2022 Organizer by 11:59pm (CEST) October 30 2021.
 
@@ -201,3 +196,4 @@ In the case of the involvement of artists in other work processes with Santa Mò
 What is Santa Mònica?
 
 Santa Mònica is an interdisciplinary arts centre located at Las Ramblas of Barcelona, dedicated to promoting contemporary creation. Its aim is to serve as a platform for the dissemination of contemporary creativity in Catalonia and as a space for reflection to promote debate and generate ideas about the concepts surrounding artistic creation and its relationship with the public. (More info)
+

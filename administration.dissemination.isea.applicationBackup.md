@@ -5,10 +5,7 @@ desc: ''
 updated: 1642819079003
 created: 1635815116728
 ---
-
-
-
-# ISEA Theme Questions
+## ISEA Theme Questions
 
 Possibles not only open up an unfinished world of futures before us, but also presents and pasts behind us.
 
@@ -28,21 +25,22 @@ The Possible is openness and movement, a horizon of change that unfolds and orga
 
 ## References
 
-Jørgensen, Dolly. “Endling, the Power of the Last in an Extinction-Prone World.” _Environmental Philosophy_ 14, no. 1 (2017): 119–38. https://doi.org/10/f3thfv.
-
+Jørgensen, Dolly. “Endling, the Power of the Last in an Extinction-Prone World.” _Environmental Philosophy_ 14, no. 1 (2017): 119–38. <https://doi.org/10/f3thfv>.
 
 ## Knowing an Endling (Thematic Statement 200-500 words)
 
 - [ ] Structure as an argument plan or at least as a research output. What is innovative? Why is this work significant? what are the benefits? Link explicitly to your PhD work.
 
->Endling (n.) The last surviving individual of a species of animal or plant. The National Museum of Australia
+> Endling (n.) The last surviving individual of a species of animal or plant. The National Museum of Australia
 
 We focus on plants.
 
 We focus on three cases where plants exist that are almost endlings:
 
 - The first one represents the last of its species. Scientists keep the specimens in a lab and it is functionally extinct.
+
 - The second one does not represent the last of its species but rather the last of its stage of life. This is the tallest flowering plant in the world – a Eucalyptus Regnans – in the remote wet forests of Tasmania.
+
 - The third is mundane. This is not one organism but a collection of trees in the suburbs. Old trees are predicted to disappear here.
 
 - [ ] Define forms of extinction and loss. Situate the examples within
@@ -70,22 +68,25 @@ Our ambition is to account for the types of knowledge out there. Not in an exhau
 We do this for the purpose of ecocentric design that seeks to support all forms of life and life-supporting abiotic environments.
 
 ## Artwork Proposal (300-800 words)
- 
+
 The exhibit consists of three projections and one tablet.
 
 We tell a story each about our endlings. Stories use photos, text and our data.
 
 - [ ] Consider sound, we have some. I think provide an option of online. Also, state that this is embedded into the website of logic and stories as planned anyway.
 - [ ] Provide a list (visual) or discoveries, innovations, unique observations, etc. and focus on some. Otherwise not clear what is of note here. Can have a table of thumbnails, etc.
-- [ ] Consider telling each story through multiple eyes and with multiple tools. photo \ data graph \ plot \ map \ point cloud \ etc
+- [ ] Consider telling each story through multiple eyes and with multiple tools. photo \\ data graph \\ plot \\ map \\ point cloud \\ etc
 
 ## ENDLING 1:
 
 Regnans (10 out of 20 tallest died in Tasmania bushfires in 2019)
 
 Over 3 + 1 sites
+
 - living regnans
+
 - dead standing regnans
+
 - dead collapsed rengans
 
 - plus ex-situ scans in synchrotron
@@ -107,7 +108,7 @@ Yellowbox Woodland (97% gone)
 
 Another component is a ‘research wall’ that provides a glimpse into the scientific evidence, the ethics, and the design of the installation. 
 
-We map the stories and compare them to other stories.`
+We map the stories and compare them to other stories.\`
 
 Show how we obtain the data.
 
@@ -188,6 +189,8 @@ Is something else possible? Much more speculative. Different scales in size, in 
 Slow down, intentionally pay attention. 
 
 Provide some tools and techniques for these types of stories
+
 - Tell stories to them
 - Co-tell it with them
 - Acknowledge that they already exist and they do not need humans to live their meaningful lives
+
