@@ -2,7 +2,7 @@
 id: nevfe8xh73nr9v4o0mo8y11
 title: More than Human Participation
 desc: ''
-updated: 1732762814156
+updated: 1732763149260
 created: 1732760973892
 ---
 This note prepares materials for the review of more-than-human participation.
@@ -64,6 +64,10 @@ Create a grouping or a table of examples of more-than-human participation in des
 - by agents
 - by degree of participation
 - by impact
+
+## Approaches and Methods of More-than-Human Participatory Design
+
+- personas
 
 ## Review Methods
 
