@@ -2,7 +2,7 @@
 id: nevfe8xh73nr9v4o0mo8y11
 title: More than Human Participation
 desc: ''
-updated: 1732762445217
+updated: 1732762814156
 created: 1732760973892
 ---
 This note prepares materials for the review of more-than-human participation.
@@ -70,6 +70,12 @@ Create a grouping or a table of examples of more-than-human participation in des
 
 ## References
 
+### Existing Reviews
+
+Are there any?
+
+### Other
+
 Akama, Yoko, Ann Light, and Takahito Kamihira. “Expanding Participation to Design with More-Than-Human Concerns.” In _Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise_, 1–11. PDC ’20. New York: Association for Computing Machinery, 2020. https://doi.org/10/gjzcwz.
 
 Clarke, Rachel, Sara Heitlinger, Ann Light, Laura Forlano, Marcus Foth, and Carl DiSalvo. “More-Than-Human Participation: Design for Sustainable Smart City Futures.” _Interactions_ 26, no. 3 (2019): 60–63. https://doi.org/10/gf35h5.
@@ -78,3 +84,5 @@ Haldrup, Michael, Kristine Samson, and Thomas Laurien. “Designing for Multispe
 
 Heitlinger, Sara, Marcus Foth, and Rachel Clarke, eds. _Designing More-than-Human Smart Cities: Beyond Sustainability, Towards Cohabitation_. Oxford: Oxford University Press, 2024.
 Westerlaken, Michelle, Jennifer Gabrys, Danilo Urzedo, and Max Ritts. “Unsettling Participation by Foregrounding More-Than-Human Relations in Digital Forests.” _Environmental Humanities_, 2022. https://doi.org/10/gqzpm2.
+
+Romani, Alessia, Francesca Casnati, and Alessandro Ianniello. “Codesign with More-Than-Humans: Toward a Meta Co-Design Tool for Human-Non-Human Collaborations.” _European Journal of Futures Research_ 10, no. 1 (2022): 17. https://doi.org/10/gqvdsm.
