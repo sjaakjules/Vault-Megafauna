@@ -2,7 +2,7 @@
 id: nevfe8xh73nr9v4o0mo8y11
 title: More than Human Participation
 desc: ''
-updated: 1732793710786
+updated: 1732794092496
 created: 1732760973892
 ---
 This note prepares materials for the review of more-than-human participation.
@@ -86,6 +86,8 @@ Vacanti, Annapaola, Francesco Burlando, Isabella Nevoso, and Massimo Menichinell
 ### Other
 
 Akama, Yoko, Ann Light, and Takahito Kamihira. “Expanding Participation to Design with More-Than-Human Concerns.” In _Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise_, 1–11. PDC ’20. New York: Association for Computing Machinery, 2020. https://doi.org/10/gjzcwz.
+
+Grobman, Yasha J., Wolfgang Weisser, Assaf Shwartz, Ferdinand Ludwig, Roy Kozlovsky, Avigail Ferdman, Katia Perini, et al. “Architectural Multispecies Building Design: Concepts, Challenges, and Design Process.” _Sustainability_ 15, no. 21 (2023): 15480. https://doi.org/10/gv4c3f.
 
 Clarke, Rachel, Sara Heitlinger, Ann Light, Laura Forlano, Marcus Foth, and Carl DiSalvo. “More-Than-Human Participation: Design for Sustainable Smart City Futures.” _Interactions_ 26, no. 3 (2019): 60–63. https://doi.org/10/gf35h5.
 
