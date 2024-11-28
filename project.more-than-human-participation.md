@@ -2,7 +2,7 @@
 id: nevfe8xh73nr9v4o0mo8y11
 title: More than Human Participation
 desc: ''
-updated: 1732763423107
+updated: 1732793710786
 created: 1732760973892
 ---
 This note prepares materials for the review of more-than-human participation.
@@ -71,13 +71,17 @@ Create a grouping or a table of examples of more-than-human participation in des
 
 ## Review Methods
 
+Scoping or narrative review.
 
 ## References
 
 ### Existing Reviews
 
+Hernandez-Santin, Cristina, Marco Amati, Sarah Bekessy, and Cheryl Desha. “A Review of Existing Ecological Design Frameworks Enabling Biodiversity Inclusive Design.” _Urban Science_ 6, no. 4 (2022): 95. https://doi.org/10/jsxw.
+
 Matthews, Ben, Skye Doherty, Jane Johnston, and Marcus Foth. “The Publics of Design: Challenges for Design Research and Practice.” _Design Studies_ 80 (2022): 101106. https://doi.org/10/g8r8zk.
 
+Vacanti, Annapaola, Francesco Burlando, Isabella Nevoso, and Massimo Menichinelli. “The More-Than-Human Trend in Design Research: A Literature Review.” In _Disrupting Geographies in the Design World: Proceedings of the 8th International Forum of Design as a Process_, edited by Erik Ciravenga, Elena Formia, Valentina Giafrate, Andreas Sicklinger, and Michele Zannoni, 80–89. Bologna: Università di Bologna, 2023. https://doi.org/10/g8r87w.
 
 ### Other
 
