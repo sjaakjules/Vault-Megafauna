@@ -2,7 +2,7 @@
 id: nevfe8xh73nr9v4o0mo8y11
 title: More than Human Participation
 desc: ''
-updated: 1732794092496
+updated: 1732794627830
 created: 1732760973892
 ---
 This note prepares materials for the review of more-than-human participation.
@@ -98,4 +98,8 @@ Westerlaken, Michelle, Jennifer Gabrys, Danilo Urzedo, and Max Ritts. “Unsettl
 
 Hupkes, Tisha, and Anders Hedman. “Shifting Towards Non-Anthropocentrism: In Dialogue with Speculative Design Futures.” _Futures_ 140 (2022): 102950. https://doi.org/10/gqbkmq.
 
+Rice, Louis. “Nonhumans in Participatory Design.” _CoDesign_ 14, no. 3 (2018): 238–57. https://doi.org/10/gfvpfx.
+
 Romani, Alessia, Francesca Casnati, and Alessandro Ianniello. “Codesign with More-Than-Humans: Toward a Meta Co-Design Tool for Human-Non-Human Collaborations.” _European Journal of Futures Research_ 10, no. 1 (2022): 17. https://doi.org/10/gqvdsm.
+
+Veselova, Emīlija, and İdil Gaziulusoy. “Bioinclusive Collaborative and Participatory Design: A Conceptual Framework and a Research Agenda.” _Design and Culture_, 2022, 1–35. https://doi.org/10/gn8psk.
