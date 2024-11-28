@@ -2,7 +2,7 @@
 id: nevfe8xh73nr9v4o0mo8y11
 title: More than Human Participation
 desc: ''
-updated: 1732763149260
+updated: 1732763423107
 created: 1732760973892
 ---
 This note prepares materials for the review of more-than-human participation.
@@ -76,7 +76,8 @@ Create a grouping or a table of examples of more-than-human participation in des
 
 ### Existing Reviews
 
-Are there any?
+Matthews, Ben, Skye Doherty, Jane Johnston, and Marcus Foth. “The Publics of Design: Challenges for Design Research and Practice.” _Design Studies_ 80 (2022): 101106. https://doi.org/10/g8r8zk.
+
 
 ### Other
 
@@ -88,5 +89,7 @@ Haldrup, Michael, Kristine Samson, and Thomas Laurien. “Designing for Multispe
 
 Heitlinger, Sara, Marcus Foth, and Rachel Clarke, eds. _Designing More-than-Human Smart Cities: Beyond Sustainability, Towards Cohabitation_. Oxford: Oxford University Press, 2024.
 Westerlaken, Michelle, Jennifer Gabrys, Danilo Urzedo, and Max Ritts. “Unsettling Participation by Foregrounding More-Than-Human Relations in Digital Forests.” _Environmental Humanities_, 2022. https://doi.org/10/gqzpm2.
+
+Hupkes, Tisha, and Anders Hedman. “Shifting Towards Non-Anthropocentrism: In Dialogue with Speculative Design Futures.” _Futures_ 140 (2022): 102950. https://doi.org/10/gqbkmq.
 
 Romani, Alessia, Francesca Casnati, and Alessandro Ianniello. “Codesign with More-Than-Humans: Toward a Meta Co-Design Tool for Human-Non-Human Collaborations.” _European Journal of Futures Research_ 10, no. 1 (2022): 17. https://doi.org/10/gqvdsm.
